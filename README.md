@@ -11,7 +11,7 @@ Repository for the textbooks and papers papers I have read.
 
 
 ## Theoretical Physics
-- [EIGHT LECTURES ON THEORETICAL PHYSICS - Max Planck](https://a.co/d/fXXLdD6)
+- [Eight Lectures on Theoretical Physics - Max Planck](https://a.co/d/fXXLdD6)
 - [Theoretical Physics - Georg Joos](https://a.co/d/9C2IwI5)
 - [Theoretical Nuclear Physics - Blatt and Weisskopf](https://a.co/d/7Ic3WSX)
 - [An Introduction to Nuclear Fission](https://a.co/d/d42gBdj)
@@ -52,10 +52,10 @@ I am presently reading the following textbooks on AI Law.  I will provide a comp
 # Technical Papers
 
 ## Machine Learning and Artificial Intelligence
-The technical papers that I have read are organized in [this folder.]](https://github.com/pfroysdon/reading_rack/blob/main/Flow-Chart)
+The technical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/aiml)
 
 ## Medical Journals and Papers
-The medical papers that I have read are organized in [this folder.]](https://github.com/pfroysdon/reading_rack/blob/main/Flow-Chart)
+The medical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/med)
 
 
 # Casual Reading
