@@ -32,8 +32,18 @@ Repository for the textbooks and papers papers I have read, and the dates of com
 - [Networks: An Introduction - Newman](https://a.co/d/3St5PNH)
 - [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
 
-## AI Law
+## Machine Learning
+- [Deep Learning with Python, Second Edition 2nd Edition - Chollet](https://a.co/d/cZmyLF1)  Good tutorial book with several examples. 06/22
+- [Reinforcement Learning, second edition: An Introduction - Sutton](https://a.co/d/8pJHcRp) Great book on RL.  I took very careful notes (I will soon post them [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes) and implemented these methods on a few projects. 10/21
+- [Pattern Recognition and Machine Learning - Bishop](https://a.co/d/3ptLp5u)  Good book, mostly simple ML methods. 04/22
+- [Pattern Classification 2nd Edition - Duda and Hart](https://a.co/d/8bA2Bdt) Good book. 04/22
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://a.co/d/2vP8iRA) Fantastic book.  Graduate-level and very detailed mathematics. 04/22
+- [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibershani](https://a.co/d/aDsRvba) Fantastic book.  Undergraduate-level with simplifed examples from the prior book. 04/22
+
+
+## Law and AI Law
 I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book after I finish each one.
+- [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution.
 - [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://www.amazon.com/Centaurs-Dilemma-National-Security-Revolution/dp/0815737998/ref=sr_1_3?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-3)
 - [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://www.amazon.com/Artificial-Intelligence-Smart-Machines-Understanding/dp/1641054131)
 -[Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://www.amazon.com/Compelling-Essays-Law-Artificial-Intelligence/dp/1736303139/ref=sr_1_4?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-4)
