@@ -28,21 +28,20 @@ This is a repository for the books and papers papers I have read.  The items tha
 - [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
 - [Proofs: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/isHNgCW)  I really like this young authors approach to Proofs.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
 
-## Graph Theory and Machine Learning
-- [Network Science - Barabasi](https://a.co/d/hVfSKuM)
-- [Networks: An Introduction - Newman](https://a.co/d/3St5PNH)
-- [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
 
-## Machine Learning
+## Machine Learning & Deep Learning
 - [Deep Learning with Python, Second Edition 2nd Edition - Chollet](https://a.co/d/cZmyLF1)  Good tutorial book for a beginner in ML. Several examples that you will not find elsewhere. 06/22
 - [Reinforcement Learning, second edition: An Introduction - Sutton](https://a.co/d/8pJHcRp) Great book on RL.  I took very careful notes (I will soon post them [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes) and implemented these methods on a few projects. 10/21
 - [Pattern Recognition and Machine Learning - Bishop](https://a.co/d/3ptLp5u)  Good book, mostly simple ML methods, but very well written by an experienced practitioner at Microsoft Research. 04/22
 - [Pattern Classification 2nd Edition - Duda and Hart](https://a.co/d/8bA2Bdt) Good book, something I have used since graduate school.  Duda discusses fundamental concepts at a time when this field was new, but still relevant today. 04/22
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition - Hastie and Tibshirani](https://a.co/d/2vP8iRA) Fantastic book.  Graduate-level and very detailed mathematics and examples.  I frequently use this reference in my work. My notes and derivations are posted [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes). 04/22
 - [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibshirani](https://a.co/d/aDsRvba) Fantastic book.  Undergraduate-level with simplifed examples from the prior book. I frequently use this reference in my work. 04/22
+- [Network Science - Barabasi](https://a.co/d/hVfSKuM)
+- [Networks: An Introduction - Newman](https://a.co/d/3St5PNH)
+- [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
 
 
-## Law and AI Law
+## Law, AI Law & Cyber Law
 I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
 - [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
 - [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://www.amazon.com/Centaurs-Dilemma-National-Security-Revolution/dp/0815737998/ref=sr_1_3?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-3)
