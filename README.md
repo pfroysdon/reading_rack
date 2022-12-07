@@ -33,12 +33,12 @@ Repository for the textbooks and papers papers I have read, and the dates of com
 - [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
 
 ## Machine Learning
-- [Deep Learning with Python, Second Edition 2nd Edition - Chollet](https://a.co/d/cZmyLF1)  Good tutorial book with several examples. 06/22
+- [Deep Learning with Python, Second Edition 2nd Edition - Chollet](https://a.co/d/cZmyLF1)  Good tutorial book for a beginner in ML. Several examples that you will not find elsewhere. 06/22
 - [Reinforcement Learning, second edition: An Introduction - Sutton](https://a.co/d/8pJHcRp) Great book on RL.  I took very careful notes (I will soon post them [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes) and implemented these methods on a few projects. 10/21
-- [Pattern Recognition and Machine Learning - Bishop](https://a.co/d/3ptLp5u)  Good book, mostly simple ML methods. 04/22
-- [Pattern Classification 2nd Edition - Duda and Hart](https://a.co/d/8bA2Bdt) Good book. 04/22
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://a.co/d/2vP8iRA) Fantastic book.  Graduate-level and very detailed mathematics. 04/22
-- [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibershani](https://a.co/d/aDsRvba) Fantastic book.  Undergraduate-level with simplifed examples from the prior book. 04/22
+- [Pattern Recognition and Machine Learning - Bishop](https://a.co/d/3ptLp5u)  Good book, mostly simple ML methods, but very well written by an experienced practitioner at Microsoft Research. 04/22
+- [Pattern Classification 2nd Edition - Duda and Hart](https://a.co/d/8bA2Bdt) Good book, something I have used since graduate school.  Duda discusses fundamental concepts at a time when this field was new, but still relevant today. 04/22
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition - Hastie and Tibshirani](https://a.co/d/2vP8iRA) Fantastic book.  Graduate-level and very detailed mathematics and examples.  I frequently use this reference in my work. My notes and derivations are posted [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes). 04/22
+- [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibshirani](https://a.co/d/aDsRvba) Fantastic book.  Undergraduate-level with simplifed examples from the prior book. I frequently use this reference in my work. 04/22
 
 
 ## Law and AI Law
