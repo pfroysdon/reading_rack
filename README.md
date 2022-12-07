@@ -2,7 +2,7 @@
 	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/machine-learning-books.jpg">
 </p>
 
-Repository for the textbooks and papers papers I have read.
+Repository for the textbooks and papers papers I have read, and the dates of completion (for my reference)
 
 
 -----------------------------------------------------------------------------------
@@ -11,21 +11,21 @@ Repository for the textbooks and papers papers I have read.
 
 
 ## Theoretical Physics
-- [Eight Lectures on Theoretical Physics - Max Planck](https://a.co/d/fXXLdD6) Great lectures and very eloquent.  Dr. Planck takes soft approach to introduce very advanced topics of the day (1909) and decribes the problems beautifully.  I wish I was alive and present when he presented.
-- [Theoretical Physics - Georg Joos](https://a.co/d/9C2IwI5) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand.
-- [Theoretical Nuclear Physics - Blatt and Weisskopf](https://a.co/d/7Ic3WSX) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand.
-- [An Introduction to Nuclear Fission](https://a.co/d/d42gBdj) This states that it is a graduate-level book, but I think it is really an undergrad book.  The math is easy, most of which you can do mentally, and the concepts are well described.  A good introduction to the subject.
-- [Physics of Waves - Elmore and Heald](https://a.co/d/csDqUIq) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand.
+- [Eight Lectures on Theoretical Physics - Max Planck](https://a.co/d/fXXLdD6) Great lectures and very eloquent.  Dr. Planck takes soft approach to introduce very advanced topics of the day (1909) and decribes the problems beautifully.  I wish I was alive and present when he presented. 11/22
+- [Theoretical Physics - Georg Joos](https://a.co/d/9C2IwI5) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
+- [Theoretical Nuclear Physics - Blatt and Weisskopf](https://a.co/d/7Ic3WSX) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
+- [An Introduction to Nuclear Fission](https://a.co/d/d42gBdj) This states that it is a graduate-level book, but I think it is really an undergrad book.  The math is easy, most of which you can do mentally, and the concepts are well described.  A good introduction to the subject. 11/22
+- [Physics of Waves - Elmore and Heald](https://a.co/d/csDqUIq) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
 - [Einstein's Theory of Relativity - Max Born](https://a.co/d/ggTQWRW)
 - [Mathematics of Classical and Quantum Physics - Byron and Fuller](https://a.co/d/8f3Sraa)
 - [Atomic Physics - Max Born](https://a.co/d/4vvXOeR)
-- [A Survey of Physical Theory - Max Planck](https://a.co/d/77jb6oT) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand.
+- [A Survey of Physical Theory - Max Planck](https://a.co/d/77jb6oT) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
 
 ## Math
-- [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense.
-- [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite.
-- [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not.
-- [Proofs: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/isHNgCW)  I really like this young authors approach to Proofs.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not.
+- [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
+- [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
+- [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
+- [Proofs: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/isHNgCW)  I really like this young authors approach to Proofs.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
 
 ## Graph Theory and Machine Learning
 - [Network Science - Barabasi](https://a.co/d/hVfSKuM)
@@ -58,16 +58,16 @@ The medical papers that I have read are organized in [this folder.](https://gith
 
 
 # Casual Reading
-- [The Making of the Atomic Bomb - Rhodes](https://a.co/d/9VpamVx)  Wonderful book that describes the history that lead to the Manhattan Project, and the pesonal history of the primary scientists on the project.  I have read this book 3 times!
-- [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond](https://a.co/d/bVZsWaz) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times.
-- [Blind Man's Bluff: The Untold Story of American Submarine Espionage](https://a.co/d/eZJvVd1) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times.
-- [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://a.co/d/45dPSQe) Something I use to help write better performance appraisals.
-- [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://a.co/d/1WRnk3S)  This book changed my life, and I reference it in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely)
-- [Food: What the Heck Should I Cook?](https://a.co/d/6rbiiFp)  I purchased this book because of the 10-day detox, and I really like this book.
-- [Food: What the Heck Should I Eat?](https://a.co/d/9OvhpFB) I purchased this book because of the 10-day detox, and I really like this book.
-- [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://a.co/d/27yNiLR)  A very interesting perspective on the world banking system, with several good references.
-- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://a.co/d/cvlVKyi) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever!
-- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://a.co/d/ejNCLXs) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times.
-- [Kelly: More Than My Share of It All](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times.
-- [Skunk Works: A Personal Memoir of My Years of Lockheed](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times.
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://a.co/d/esVXMWP) A great story about creativity and how to overcome your personal obstacles.
+- [The Making of the Atomic Bomb - Rhodes](https://a.co/d/9VpamVx)  Wonderful book that describes the history that lead to the Manhattan Project, and the pesonal history of the primary scientists on the project.  I have read this book 3 times! 10/22
+- [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond](https://a.co/d/bVZsWaz) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
+- [Blind Man's Bluff: The Untold Story of American Submarine Espionage](https://a.co/d/eZJvVd1) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
+- [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://a.co/d/45dPSQe) Something I use to help write better performance appraisals. 08/22
+- [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://a.co/d/1WRnk3S)  This book changed my life, and I reference it in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely) 06/22
+- [Food: What the Heck Should I Cook?](https://a.co/d/6rbiiFp)  I purchased this book because of the 10-day detox, and I really like this book. 06/22
+- [Food: What the Heck Should I Eat?](https://a.co/d/9OvhpFB) I purchased this book because of the 10-day detox, and I really like this book. 06/22
+- [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://a.co/d/27yNiLR)  A very interesting perspective on the world banking system, with several good references. 01/22
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://a.co/d/cvlVKyi) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://a.co/d/ejNCLXs) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
+- [Kelly: More Than My Share of It All](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
+- [Skunk Works: A Personal Memoir of My Years of Lockheed](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://a.co/d/esVXMWP) A great story about creativity and how to overcome your personal obstacles. 05/21
