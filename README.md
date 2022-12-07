@@ -43,7 +43,7 @@ Repository for the textbooks and papers papers I have read, and the dates of com
 
 ## Law and AI Law
 I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book after I finish each one.
-- [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution.
+- [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
 - [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://www.amazon.com/Centaurs-Dilemma-National-Security-Revolution/dp/0815737998/ref=sr_1_3?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-3)
 - [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://www.amazon.com/Artificial-Intelligence-Smart-Machines-Understanding/dp/1641054131)
 -[Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://www.amazon.com/Compelling-Essays-Law-Artificial-Intelligence/dp/1736303139/ref=sr_1_4?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-4)
