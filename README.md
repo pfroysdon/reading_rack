@@ -2,7 +2,7 @@
 	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/machine-learning-books.jpg">
 </p>
 
-**NOTE** 
+**NOTE:**  
 This is a repository for the books and papers papers I have read.  The items that I have completed have a date (for my reference) and a summary or comment, while the others are items I have recently purchased and next on my list to read.  
 Each of the books were purchased through Amazon or eBay, so I have provided links for anyone interested in purchasing them.
 The papers I have either provided links or the .pdf (or both).
