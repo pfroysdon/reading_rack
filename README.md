@@ -34,8 +34,8 @@ This is a repository for the books and papers papers I have read.  The items tha
 - [Reinforcement Learning, second edition: An Introduction - Sutton](https://a.co/d/8pJHcRp) Great book on RL.  I took very careful notes (I will soon post them [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes) and implemented these methods on a few projects. 10/21
 - [Pattern Recognition and Machine Learning - Bishop](https://a.co/d/3ptLp5u)  Good book, mostly simple ML methods, but very well written by an experienced practitioner at Microsoft Research. 04/22
 - [Pattern Classification 2nd Edition - Duda and Hart](https://a.co/d/8bA2Bdt) Good book, something I have used since graduate school.  Duda discusses fundamental concepts at a time when this field was new, but still relevant today. 04/22
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition - Hastie and Tibshirani](https://a.co/d/2vP8iRA) Fantastic book.  Graduate-level and very detailed mathematics and examples.  I frequently use this reference in my work. My notes and derivations are posted [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes). 04/22
-- [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibshirani](https://a.co/d/aDsRvba) Fantastic book.  Undergraduate-level with simplifed examples from the prior book. I frequently use this reference in my work. 04/22
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition - Hastie and Tibshirani](https://a.co/d/2vP8iRA) Fantastic book.  Graduate-level and very detailed mathematics and examples.  I frequently use this reference in my work. My notes and derivations are posted [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes). 09/21
+- [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibshirani](https://a.co/d/aDsRvba) Fantastic book.  Undergraduate-level with simplifed examples from the prior book. I frequently use this reference in my work. 09/21
 - [Network Science - Barabasi](https://a.co/d/hVfSKuM)
 - [Networks: An Introduction - Newman](https://a.co/d/3St5PNH)
 - [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
@@ -44,18 +44,18 @@ This is a repository for the books and papers papers I have read.  The items tha
 ### Law, AI Law & Cyber Law
 I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
 - [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
-- [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://www.amazon.com/Centaurs-Dilemma-National-Security-Revolution/dp/0815737998/ref=sr_1_3?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-3)
-- [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://www.amazon.com/Artificial-Intelligence-Smart-Machines-Understanding/dp/1641054131)
--[Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://www.amazon.com/Compelling-Essays-Law-Artificial-Intelligence/dp/1736303139/ref=sr_1_4?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-4)
-- [Artificial Intelligence And LegalTech Essentials: Advanced Series On Artificial Intelligence (AI) And Law ](https://www.amazon.com/Artificial-Intelligence-LegalTech-Essentials-Advanced/dp/1734601639/ref=d_zg-te-pba_sccl_3_6/131-3525611-7568345?pd_rd_w=4M9xJ&content-id=amzn1.sym.e4255960-36c0-425e-9849-651b7df9c86e&pf_rd_p=e4255960-36c0-425e-9849-651b7df9c86e&pf_rd_r=8MGFB6MKEP66ZCXKP7J6&pd_rd_wg=95lmq&pd_rd_r=2be3b6d3-3bfd-485c-9c19-a556a6b26ab6&pd_rd_i=1734601639&psc=1)
+- [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://a.co/d/he8RSGC)
+- [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://a.co/d/0sP02nU)
+- [Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://a.co/d/8nSifDZ)
+- [Artificial Intelligence And LegalTech Essentials: Advanced Series On Artificial Intelligence (AI) And Law ](https://a.co/d/h9MRc1v)
 - [Ingenious Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://www.amazon.com/Ingenious-Essays-Law-Artificial-Intelligence/dp/1736303120/ref=sr_1_5?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-5)
-- [Law and Artificial Intelligence: Regulating AI and Applying AI in Legal Practice (Information Technology and Law Series, 35)](https://www.amazon.com/Law-Artificial-Intelligence-Regulating-Information/dp/9462655227/ref=sr_1_1?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-1)
-- [Advanced Introduction to Law and Artificial Intelligence (Elgar Advanced Introductions) ](https://www.amazon.com/Advanced-Introduction-Artificial-Intelligence-Introductions/dp/1789905141/ref=d_pd_sbs_sccl_1_2/131-3525611-7568345?pd_rd_w=mW2Qn&content-id=amzn1.sym.38bbd1de-73a5-4ef9-9954-df27c3112829&pf_rd_p=38bbd1de-73a5-4ef9-9954-df27c3112829&pf_rd_r=TD2A4VVCMZXAHMJHWXPG&pd_rd_wg=TrxVk&pd_rd_r=c84e60c1-ad6e-4c2d-bee5-907de798524f&pd_rd_i=1789905141&psc=1)
--[Research Handbook on the Law of Artificial Intelligence ](https://www.amazon.com/Research-Handbook-Law-Artificial-Intelligence/dp/1035308541/ref=sr_1_13?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-13)
-- [Economics and Law of Artificial Intelligence: Finance, Economic Impacts, Risk Management and Governance](https://www.amazon.com/Economics-Law-Artificial-Intelligence-Management-ebook/dp/B08SQQ13QR/ref=sr_1_36?keywords=ai+and+law&qid=1669741425&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-36)
-- [The Reasonable Robot: Artificial Intelligence and the Law](https://www.amazon.com/Reasonable-Robot-Artificial-Intelligence-Law-ebook/dp/B088T7FZJB/ref=sr_1_9?keywords=ai+and+law&qid=1669741614&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-9)
-- [Is Law Computable?: Critical Perspectives on Law and Artificial Intelligence ](https://www.amazon.com/Law-Computable-Perspectives-Artificial-Intelligence/dp/1509945598/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1669742104&sr=1-14)
-- [Cybersecurity Law 3rd Edition](https://www.amazon.com/Cybersecurity-Law-Jeff-Kosseff/dp/1119822165/ref=sr_1_fkmr0_1?crid=3PGA1W69J44ZZ&keywords=cybersecurity+law+koesff&qid=1669744768&s=books&sprefix=cybersecurity+law+koesf%2Cstripbooks%2C125&sr=1-1-fkmr0)
+- [Law and Artificial Intelligence: Regulating AI and Applying AI in Legal Practice (Information Technology and Law Series, 35)](https://a.co/d/i1SlsDL)
+- [Advanced Introduction to Law and Artificial Intelligence (Elgar Advanced Introductions) ](https://a.co/d/011armj)
+- [Research Handbook on the Law of Artificial Intelligence ](https://a.co/d/jbujeYu)
+- [Economics and Law of Artificial Intelligence: Finance, Economic Impacts, Risk Management and Governance](https://a.co/d/3IsKBpX)
+- [The Reasonable Robot: Artificial Intelligence and the Law](https://a.co/d/aSGASsr)
+- [Is Law Computable?: Critical Perspectives on Law and Artificial Intelligence ](https://a.co/d/g2tzAlE)
+- [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw)
 
 
 # Technical Papers
