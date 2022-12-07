@@ -61,7 +61,10 @@ I am presently reading the following textbooks on AI Law.  I will provide a comp
 # Technical Papers
 
 ## Machine Learning and Artificial Intelligence
-The technical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/aiml)
+The technical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/ml)
+
+- [Foundation Models](https://hai.stanford.edu/news/reflections-foundation-models) seem to be the next wave.  I am presently reading their [214 page report](https://crfm.stanford.edu/assets/report.pdf) and I will provide my findings.
+
 
 ## Medical Journals and Papers
 The medical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/med)
