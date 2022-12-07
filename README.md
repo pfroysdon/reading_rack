@@ -2,7 +2,7 @@
 	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/machine-learning-books.jpg">
 </p>
 
-Repository for the textbooks and papers papers I have read, and the dates of completion (for my reference)  Each of these books were purchased through Amazon or eBay, so I have provided links for anyone interested in reading them.
+Repository for the textbooks and papers papers I have read, and the dates of completion (for my reference).  Each of these books were purchased through Amazon or eBay, so I have provided links for anyone interested in reading them.
 
 
 -----------------------------------------------------------------------------------
