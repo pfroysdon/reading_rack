@@ -63,8 +63,8 @@ This is a repository for the books and papers papers I have read.  The items tha
 
 **Note:** I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
 
-- [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
-- [The U.S. Constitution: A reader](https://shop.hillsdale.edu/products/constitution-em-a-reader-em)  This was a fascinating read, with clear unbiased commentary and references throughout.  A must have for anyone wishing to learn about the past and present of the U.S. Constitution. 05/22 
+- [The Court and the Constitution - Cox](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
+- [The U.S. Constitution: A Reader](https://shop.hillsdale.edu/products/constitution-em-a-reader-em)  This was a fascinating read, with clear unbiased commentary and references throughout.  A must have for anyone wishing to learn about the past and present of the U.S. Constitution. 05/22 
 - [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://a.co/d/he8RSGC)
 - [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://a.co/d/0sP02nU)
 - [Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://a.co/d/8nSifDZ)
@@ -116,27 +116,27 @@ The medical papers that I have read are organized in [this folder.](https://gith
 
 ### Technical
 - [The Making of the Atomic Bomb - Rhodes](https://a.co/d/9VpamVx)  Wonderful book that describes the history that lead to the Manhattan Project, and the pesonal history of the primary scientists on the project.  I have read this book 3 times! 10/22
-- [Blind Man's Bluff: The Untold Story of American Submarine Espionage](https://a.co/d/eZJvVd1) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
+- [Blind Man's Bluff: The Untold Story of American Submarine Espionage - Sontag](https://a.co/d/eZJvVd1) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
 
 
 ### Creative, Inspirational, or Informational
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://a.co/d/esVXMWP) A great story about creativity and how to overcome your personal obstacles. 05/21
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://a.co/d/11pNDMy) This is a facinating story about a very intersting person!  My cousin and several colleagues work for Elon, and based on their personal experience with him, he sounds exactly like a guy I worked for in Northern California for a decade.  It seems to me the *true* risk takers and entrepreneurs are very similar, and the roller coaster of working for them is both exhilarating and exhausting.  I have read this book 2 times. 10/21
 - [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://a.co/d/27yNiLR)  A very interesting perspective on the world banking system, with several good references. 01/22
-- [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond](https://a.co/d/bVZsWaz) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
-- [Kelly: More Than My Share of It All](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
-- [Skunk Works: A Personal Memoir of My Years of Lockheed](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
+- [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond - Kranz](https://a.co/d/bVZsWaz) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
+- [Kelly: More Than My Share of It All - Johnson](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
+- [Skunk Works: A Personal Memoir of My Years of Lockheed - Rich](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
 
 ### Leadership
 - [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://a.co/d/45dPSQe) Something I use to help write better performance appraisals. 08/22
-- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://a.co/d/cvlVKyi) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
-- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://a.co/d/ejNCLXs) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Willink](https://a.co/d/cvlVKyi) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders - Marquet](https://a.co/d/ejNCLXs) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
 
 
 ### Health
-- [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://a.co/d/1WRnk3S)  This book changed my life, and I reference it in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely) 06/22
-- [Food: What the Heck Should I Cook?](https://a.co/d/6rbiiFp)  I purchased this book because of the 10-day detox, and I really like this book. 06/22
-- [Food: What the Heck Should I Eat?](https://a.co/d/9OvhpFB) I purchased this book because of the 10-day detox, and I really like this book. 06/22
+- [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://a.co/d/1WRnk3S)  This book changed my life and my perspective on healthy eating. Cronic illness is gone, I have lost weight and inches around my waste, and best of all, I have better mental clarity to read and retain great books like those on this list!  I reference this book in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely) 06/22
+- [Food: What the Heck Should I Cook? - Hyman](https://a.co/d/6rbiiFp)  I purchased this book because of the 10-day detox, and I really like this book. 06/22
+- [Food: What the Heck Should I Eat? - Hyman](https://a.co/d/9OvhpFB) I purchased this book because of the 10-day detox, and I really like this book. 06/22
 
 
 
