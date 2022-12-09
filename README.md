@@ -30,6 +30,7 @@ This is a repository for the books and papers papers I have read.  The items tha
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3725.jpg">
 </p>
+
 - [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
 - [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
 - [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
@@ -40,6 +41,7 @@ This is a repository for the books and papers papers I have read.  The items tha
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3727.jpg">
 </p>
+
 - [Deep Learning with Python, Second Edition 2nd Edition - Chollet](https://a.co/d/cZmyLF1)  Good tutorial book for a beginner in ML. Several examples that you will not find elsewhere. 06/22
 - [Reinforcement Learning, second edition: An Introduction - Sutton](https://a.co/d/8pJHcRp) Great book on RL.  I took very careful notes (I will soon post them [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes) and implemented these methods on a few projects. 10/21
 - [Pattern Recognition and Machine Learning - Bishop](https://a.co/d/3ptLp5u)  Good book, mostly simple ML methods, but very well written by an experienced practitioner at Microsoft Research. 04/22
@@ -55,6 +57,7 @@ This is a repository for the books and papers papers I have read.  The items tha
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3728.jpg">
 </p>
+
 I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
 - [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
 - [The U.S. Constitution: A reader](https://shop.hillsdale.edu/products/constitution-em-a-reader-em)  This was a fascinating read, with clear unbiased commentary and references throughout.  A must have for anyone wishing to learn about the past and present of the U.S. Constitution. 05/22 
