@@ -31,6 +31,8 @@ This is a repository for the books and papers papers I have read.  The items tha
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3725.jpg">
 </p>
 
+I have ~50 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
 - [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
 - [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
 - [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
@@ -75,6 +77,24 @@ I am presently reading the following textbooks on AI Law.  I will provide a comp
 - [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw)
 
 
+### Aeronautical, Aerospace Engineering, & Aircraft Design
+I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
+### Mecanical Engineering
+I have ~15 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
+### Electrical Enginering
+I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
+### Computer Science
+I have ~5 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
+### Navigation, State Estimation, & Signal Processing
+I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
+### Watchmaking
+I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
 
 # Technical Papers
 
@@ -89,17 +109,31 @@ The medical papers that I have read are organized in [this folder.](https://gith
 
 
 # Casual Reading
+
+I have ~60 books that I have read in this area.  I will post the photos, links, and reviews soon.
+
+### Technical
 - [The Making of the Atomic Bomb - Rhodes](https://a.co/d/9VpamVx)  Wonderful book that describes the history that lead to the Manhattan Project, and the pesonal history of the primary scientists on the project.  I have read this book 3 times! 10/22
 - [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond](https://a.co/d/bVZsWaz) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
 - [Blind Man's Bluff: The Untold Story of American Submarine Espionage](https://a.co/d/eZJvVd1) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
+- [Kelly: More Than My Share of It All](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
+- [Skunk Works: A Personal Memoir of My Years of Lockheed](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
+
+### Creative Inspiration
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://a.co/d/esVXMWP) A great story about creativity and how to overcome your personal obstacles. 05/21
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://a.co/d/11pNDMy) This is a facinating story about a very intersting person!  My cousin and several colleagues work for Elon, and based on their personal experience with him, he sounds exactly like a guy I worked for in Northern California for a decade.  It seems to me the *true* risk takers and entrepreneurs are very similar, and the roller coaster of working for them is both exhilarating and exhausting.  I have read this book 2 times. 10/21
+
+### Leadership
 - [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://a.co/d/45dPSQe) Something I use to help write better performance appraisals. 08/22
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://a.co/d/cvlVKyi) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://a.co/d/ejNCLXs) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
+
+### Health
 - [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://a.co/d/1WRnk3S)  This book changed my life, and I reference it in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely) 06/22
 - [Food: What the Heck Should I Cook?](https://a.co/d/6rbiiFp)  I purchased this book because of the 10-day detox, and I really like this book. 06/22
 - [Food: What the Heck Should I Eat?](https://a.co/d/9OvhpFB) I purchased this book because of the 10-day detox, and I really like this book. 06/22
 - [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://a.co/d/27yNiLR)  A very interesting perspective on the world banking system, with several good references. 01/22
-- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://a.co/d/cvlVKyi) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
-- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://a.co/d/ejNCLXs) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
-- [Kelly: More Than My Share of It All](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
-- [Skunk Works: A Personal Memoir of My Years of Lockheed](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://a.co/d/esVXMWP) A great story about creativity and how to overcome your personal obstacles. 05/21
-- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://a.co/d/11pNDMy) This is a facinating story about a very intersting person!  My cousin and several colleagues work for Elon, and based on their personal experience with him, he sounds exactly like a guy I worked for in Northern California for a decade.  It seems to me the *true* risk takers and entrepreneurs are very similar, and the roller coaster of working for them is both exhilarating and exhausting.  I have read this book 2 times. 10/21
+
+
+
+
