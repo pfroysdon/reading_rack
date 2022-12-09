@@ -89,6 +89,7 @@ This is a repository for the books and papers papers I have read.  The items tha
 **Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Computer Science
+**Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Navigation Theory, State Estimation, & Signal Processing
 **Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
