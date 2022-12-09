@@ -79,7 +79,7 @@ This is a repository for the books and papers papers I have read.  The items tha
 - [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw)
 
 
-### Aeronautical, Aerospace Engineering, & Aircraft Design
+### Aeronautical/Aerospace Engineering, Stability and Control, & Aircraft Design
 **Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Mecanical Engineering
@@ -89,10 +89,12 @@ This is a repository for the books and papers papers I have read.  The items tha
 **Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Computer Science
-**Note:** I have ~5 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
-### Navigation, State Estimation, & Signal Processing
+### Navigation Theory, State Estimation, & Signal Processing
 **Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
+### Guidance and Control Theory
+**Note:** I have ~30 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Watchmaking
 **Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
