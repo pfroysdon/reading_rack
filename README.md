@@ -26,12 +26,13 @@ This is a repository for the books and papers papers I have read.  The items tha
 - [Atomic Physics - Max Born](https://a.co/d/4vvXOeR)  Like many of these older books, this one is no exception.  I really like the author's style of writing.  Non-native English speakers, or translation of a language, often potrays things very differently and I certainly like this perspective.  While this book was significantly modified by the co-authors, they did maintain much of the original text from Dr. Born and the text is well written. 12/22
 - [A Survey of Physical Theory - Max Planck](https://a.co/d/77jb6oT) This is a topical book (a survey) wherein Dr. Planck provides his thoughts on the current state of physics (in 1925).  It is rather easy to follow, very little math (I counted fewer than 10 equations), with a particularly interesting discussion on electromagnetic theory. 12/22
 
+
 ### Math
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3725.jpg">
 </p>
 
-I have ~50 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~50 books that I have read and used in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
 
 - [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
 - [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
@@ -60,7 +61,8 @@ I have ~50 books that I have read and used in this area.  I will post the photos
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3728.jpg">
 </p>
 
-I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
+**Note:** I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
+
 - [The Court and the Constitution](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
 - [The U.S. Constitution: A reader](https://shop.hillsdale.edu/products/constitution-em-a-reader-em)  This was a fascinating read, with clear unbiased commentary and references throughout.  A must have for anyone wishing to learn about the past and present of the U.S. Constitution. 05/22 
 - [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://a.co/d/he8RSGC)
@@ -78,22 +80,22 @@ I am presently reading the following textbooks on AI Law.  I will provide a comp
 
 
 ### Aeronautical, Aerospace Engineering, & Aircraft Design
-I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Mecanical Engineering
-I have ~15 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~15 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Electrical Enginering
-I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Computer Science
-I have ~5 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~5 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Navigation, State Estimation, & Signal Processing
-I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Watchmaking
-I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 
 # Technical Papers
@@ -110,7 +112,7 @@ The medical papers that I have read are organized in [this folder.](https://gith
 
 # Casual Reading
 
-I have ~60 books that I have read in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~60 books that I have read in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
 
 ### Technical
 - [The Making of the Atomic Bomb - Rhodes](https://a.co/d/9VpamVx)  Wonderful book that describes the history that lead to the Manhattan Project, and the pesonal history of the primary scientists on the project.  I have read this book 3 times! 10/22
