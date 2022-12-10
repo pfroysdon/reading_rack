@@ -13,7 +13,7 @@ This is a repository for the books and papers I have read.  The items that I hav
 
 ### Theoretical Physics
 <p align="center">
-	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3724.jpg">
+	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3748.jpg">
 </p>
 
 - [Eight Lectures on Theoretical Physics - Max Planck](https://a.co/d/fXXLdD6) Great lectures and very eloquent.  Dr. Planck takes soft approach to introduce very advanced topics of the day (1909) and decribes the problems beautifully.  I wish I was alive and present when he presented. 11/22
@@ -29,10 +29,10 @@ This is a repository for the books and papers I have read.  The items that I hav
 
 ### Math
 <p align="center">
-	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3725.jpg">
+	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3744.jpg">
 </p>
 
-**Note:** I have ~50 books that I have read and used in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
+**Note:** I have ~36 books that I have read and used in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
 
 - [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
 - [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
@@ -79,26 +79,25 @@ This is a repository for the books and papers I have read.  The items that I hav
 - [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw)
 
 
-### Aeronautical/Aerospace Engineering, Stability and Control, & Aircraft Design
+### Aeronautical & Mechanical Engineering, Stability & Control, Aircraft Design
+<p align="center">
+	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3745.jpg">
+	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3746.jpg">
+</p>
+
+**Note:** I have ~55 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+
+### Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
+<p align="center">
+	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3743.jpg">
+</p>
 **Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
-
-### Mecanical Engineering
-**Note:** I have ~15 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
-
-### Electrical Enginering
-**Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
-
-### Computer Science
-**Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
-
-### Navigation Theory, State Estimation, & Signal Processing
-**Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
-
-### Guidance and Control Theory
-**Note:** I have ~30 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Watchmaking
-**Note:** I have ~10 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+<p align="center">
+	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3747.jpg">
+</p>
+**Note:** I have ~20 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 
 # Technical Papers
