@@ -3,7 +3,7 @@
 </p>
 
 **NOTE:**  
-This is a repository for the books and papers I have read.  The items that I have completed have a date (for my reference) and a summary or comment, while the others are items I have recently purchased and next on my list to read.  Each of the books were purchased through Amazon or eBay, so I have provided links for anyone interested in purchasing them.  The papers I have either provided links or the .pdf (or both).
+This is a repository for the books and papers I have read in the last 25 years of my career.  The items that I have completed have a date (for my reference) and a summary or comment, while the others are items I have recently purchased and next on my list to read.  Most of the books were purchased online, so I have provided links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
 
 
 -----------------------------------------------------------------------------------
@@ -91,12 +91,14 @@ This is a repository for the books and papers I have read.  The items that I hav
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3743.jpg">
 </p>
+
 **Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 ### Watchmaking
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3747.jpg">
 </p>
+
 **Note:** I have ~20 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
 
