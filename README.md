@@ -102,6 +102,8 @@ This is a repository for the books and papers I have read.  The items that I hav
 
 # Technical Papers
 
+**Note:** There are **literally hundreds (maybe thousands)** of technical papers that I have read in the last 25 years.  I will post nearly all of them, but I will only provide my comments on a subset that I found impactful in my research.  Please be patient as I locate and upload these papers.
+
 ### Machine Learning and Artificial Intelligence
 The technical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/ml)
 
@@ -114,7 +116,7 @@ The medical papers that I have read are organized in [this folder.](https://gith
 
 # Casual Reading
 
-**Note:** I have ~60 books that I have read in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
+**Note:** I have ~200 books that I have read in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
 
 ### Technical
 - [The Making of the Atomic Bomb - Rhodes](https://a.co/d/9VpamVx)  Wonderful book that describes the history that lead to the Manhattan Project, and the pesonal history of the primary scientists on the project.  I have read this book 3 times! 10/22
