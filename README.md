@@ -100,6 +100,10 @@ This is a repository for the books and papers I have read in the last 25 years o
 
 **Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
 
+- [Fundamentals of Statistical Signal Processing, Vol 1, Estimation Theory - Kay](https://a.co/d/5twMxmZ) This is the best 3 volume series on signal processing and specifically **estimation theory**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
+- [Fundamentals of Statistical Signal Processing, Vol 2, Detection Theory - Kay](https://a.co/d/5bkDDJZ) This is the best 3 volume series on signal processing and specifically **detection theory, e.g. anomaly detection**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
+- [Fundamentals of Statistical Signal Processing, Vol 3, Practical Algorithm Development Theory - Kay](https://a.co/d/68dbK3y) This is the best 3 volume series on signal processing and specifically on **practical considersations, performance evaluation, metrics, tradeoffs, and testing**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
+
 ### Watchmaking
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3747.jpg">
