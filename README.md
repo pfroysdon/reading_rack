@@ -133,12 +133,12 @@ Fun Books when you need some throught challenges.
 
 **Note:** I have ~40 books that I have read and used in this area.  I will post the links, and reviews soon.
 
-- [Aided Navigation, GPS with High Rate Sensors - Farrell](https://a.co/d/7uAmnbz) **This was my PhD advisor**.  His book is the reason I petitioned him to be his PhD student.  Farrell and this book are known world-wide.  **This book is one of the few books that I have seen where every variable is clearly defined and explained**.  I learned so much from Dr. Farrell and I have carried forward his instruction into how I write [my boooks](https://roysdonfibonaccipress.com).  This is a great book on Kalman Filters, GPS-INS navigation, AHRS, GPS positioning, smoothing, and state estimation.
+- [Aided Navigation, GPS with High Rate Sensors - Farrell](https://a.co/d/7uAmnbz) **This was my PhD advisor**.  His book is the reason I petitioned him to be his PhD student.  Farrell and this book are known world-wide.  **This book is one of the few books that I have seen where every variable is clearly defined and explained**.  I learned so much from Dr. Farrell and I have carried forward his instruction into how I write [my books](https://roysdonfibonaccipress.com).  This is a great book on Kalman Filters, GPS-INS navigation, AHRS, GPS positioning, smoothing, and state estimation.
 - [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems - Groves](https://a.co/d/dR3mMAZ)  This is my go-to book when I need the kinematic equations and their derivatives in multiple reference frames, e.g., ECI to ECEF, or NED to ECEF, etc.  Of course his book has many other topics, but the reference frame descriptions are the best I have seen in any book.  This is a great book that I reference frequently.
 - [Fundamentals of Statistical Signal Processing, Vol 1, Estimation Theory - Kay](https://a.co/d/5twMxmZ) This is the best 3 volume series on signal processing and specifically **estimation theory**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
 - [Fundamentals of Statistical Signal Processing, Vol 2, Detection Theory - Kay](https://a.co/d/5bkDDJZ) This is the best 3 volume series on signal processing and specifically **detection theory, e.g. anomaly detection**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
 - [Fundamentals of Statistical Signal Processing, Vol 3, Practical Algorithm Development Theory - Kay](https://a.co/d/68dbK3y) This is the best 3 volume series on signal processing and specifically on **practical considersations, performance evaluation, metrics, tradeoffs, and testing**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
-- [Fundamentals of Linear State Space Systems - Bay](https://a.co/d/7hYUvfg)  This is a great book to start learning state space methods after you have read Strang's linear algebra book.  I used this in college and still refer to this book.
+- [Fundamentals of Linear State Space Systems - Bay](https://a.co/d/7hYUvfg)  This is a great book to start learning state space methods after you have read Strang's linear algebra book.  I used this in graduate school and still refer to this book.
 - [Applied Optimal Estimation - Gelb](https://a.co/d/dkecC5h) After you master Bay's book and you are intersted in estimation theory, this is a great book to learn. Herein you will learn methods that are also discussed in Kay's books, but with slightly different notation.
 - [Optimal Control Theory, An Introduction- Kirk](https://a.co/d/59CXQOg) After you master Bay's book and you are interested in control theory, this is a great book to learn.
 
@@ -163,6 +163,11 @@ The technical papers that I have read are organized in [this folder.](https://gi
 
 ### Medical Journals and Papers
 The medical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/med)
+
+
+### Law Journals and Papers
+The Law papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/law)
+
 
 
 # Casual Reading
