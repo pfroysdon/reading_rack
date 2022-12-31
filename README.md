@@ -36,8 +36,6 @@ If you wish to contact me, send an email to [roysdonfibonaccipress@gmail.com](ma
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3744.jpg">
 </p>
 
-**Note:** I have ~36 books that I have read and used in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
-
 - [Mathematische Formeln und Begriffe, Formelsammlung Erweiterte Ausgabe E für die Sekundarstufe I und II der Gymnasien](https://a.co/d/1R0UPwD) **My preferred short-form (48 pages) math reference.** I received this book when I studied in Germany.  Apparently every German engineering or science student receives this book. Over the years of my undergrad I added notes throughout this text, e.g. the definition of a series can be defined in sequence or with a summation, I added the summation form, etc.  **I have considered translating this book (with my notes) for English speaking students.  Send me an email if you are interested.**
 - [Handbook of Mathematics - Bronshtein](https://a.co/d/awF7Soi) **My preferred long-form (1251 pages) math reference.**  This book helped me get through college.  This book is commonly used in German schools for science and engineering students. 
 - [Matrix Mathematics - Bernsten](https://a.co/d/cLOjA5T) A single source for nearly all linear algebra derivations, proofs and theory.  This is a great book to have once you master the skills in Noble and Golubs books (of course assuming you already read Strang's book).
@@ -126,14 +124,14 @@ Fun Books when you need some throught challenges.
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3746.jpg">
 </p>
 
-**Note:** I have ~55 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~55 books that I have read and used in this area.  I will post the links, and reviews soon.
 
 ### Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3743.jpg">
 </p>
 
-**Note:** I have ~40 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~40 books that I have read and used in this area.  I will post the links, and reviews soon.
 
 - [Aided Navigation, GPS with High Rate Sensors - Farrell](https://a.co/d/7uAmnbz) **This was my PhD advisor**.  His book is the reason I petitioned him to be his PhD student.  Farrell and this book are known world-wide.  **This book is one of the few books that I have seen where every variable is clearly defined and explained**.  I learned so much from Dr. Farrell and I have carried forward his instruction into how I write [my boooks](https://roysdonfibonaccipress.com).  This is a great book on Kalman Filters, GPS-INS navigation, AHRS, GPS positioning, smoothing, and state estimation.
 - [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems - Groves](https://a.co/d/dR3mMAZ)  This is my go-to book when I need the kinematic equations and their derivatives in multiple reference frames, e.g., ECI to ECEF, or NED to ECEF, etc.  Of course his book has many other topics, but the reference frame descriptions are the best I have seen in any book.  This is a great book that I reference frequently.
@@ -150,7 +148,7 @@ Fun Books when you need some throught challenges.
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3747.jpg">
 </p>
 
-**Note:** I have ~20 books that I have read and used in this area.  I will post the photos, links, and reviews soon.
+**Note:** I have ~20 books that I have read and used in this area.  I will post the links, and reviews soon.
 
 
 # Technical Papers
