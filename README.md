@@ -41,9 +41,39 @@ This is a repository for the books and papers I have read in the last 25 years o
 - [Linear Algebra and its Applications - Strang](https://a.co/d/iNpdzHy)  This is the **best** starter book in linear algebra (undergraduate level).  The concepts are clearly defined and build in difficulty with each chapter.
 - [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
 - [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
-- [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
-- [Proofs: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/isHNgCW)  I really like this young authors approach to Proofs.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 11/22
+- [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 12/22
+- [Proofs: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/isHNgCW)  This is a great book, and if you read the author's book on Real Analysis.  **The dedication in this book is priceless.** 12/22
 - [Mathematical Notation - A guide for Engineers and Scientists](https://a.co/d/gNmvUQh) This is a great guide that is similar to my [Math Handbook](https://www.roysdonfibonaccipress.com/shop/p/math-handbook-for-machine-learning), and a great reference if you are confused with math symbols, e.g., you cannot remember the symbol for a method or you cannot remember the meaning of a math symbol. 12/22
+- [Mathematical Reasoning - Sundstrom](https://a.co/d/2OIg84X) This is the textbook I used when I took an undergraduate math proofs course.  This is a great introduction.
+- [div grad culr and all that - Schey](https://a.co/d/hsvxuvY)  I used this book while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
+- [Mathematical Methods in the Physical Sciences - Boas](https://a.co/d/erH78Mg)  This is another book I used while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
+
+Dover books: these are re-prints of great books that I read during my PhD studies.
+- [Linear Algebra - Shilov](https://a.co/d/3Sg3leS)
+- [Introduction to Partial Differntial Equations with Applications - Zachmanoglou](https://a.co/d/ibWSLDx)
+- [Introduction to Stochastic Control Theory - Astrom](https://a.co/d/fJrR8Si)
+- [Optimal Control and Estimation - Stengel](https://a.co/d/hAIv7Ff)
+- [Nonlinear Filtering and Smoothing - Krishnan](https://a.co/d/0PWQVln)
+- [An Introduction to Random Vibrations, Spectral & Wavlet Analysis - Newland](https://a.co/d/0RbgpVX)
+- [Ordinary Differential Equations - Tenenbaum](https://a.co/d/4777BWg)
+- [Partial Differential Equations for Scientists and Engineers - Farlow](https://a.co/d/aGi4K57)
+- [Stochastic Processes and Filtering Theory - Jazwinski](https://a.co/d/cpGA09S)
+- [Lyapunov Matrix Equation in System Stability and Control - Gajic](https://a.co/d/gpz6IgD)
+- [Principles of Statistics - Bulmer](https://a.co/d/bPs72Hr)
+- [Introduction to Graph Theory - Chartrand](https://a.co/d/j4DNkvg)
+- [Geometry: A Comprehensive Course - Pedoe](https://a.co/d/9F8cAXi)
+- [Introduction to Topology - Mendelson](https://a.co/d/dYRbSB8)
+- [Probability Theory: A Concise Course - Rozanov](https://a.co/d/5Idm2UT)
+- [Introduction to Information Theory: Symbols, Signals and Noise - Pierce](https://a.co/d/h2Vnrah)
+- [Introduction to Graph Theory - Trudeau](https://a.co/d/fUeyQvs)
+- [Linear Algebra and Matrix Theory - Stoll](https://a.co/d/hk3cDtj)
+- [Stochastic Differential Equations - Oksendal](https://a.co/d/dOSaNaP)
+
+Fun Books when you need some throught challenges.
+- [Challenging Problems in Geometry - Posamentier](https://a.co/d/dP50hXo)
+- [Challenging Problems in Algebra - Posamentier](https://a.co/d/aaGaU9D)
+- [The Moscow Puzzles - Kordemsky](https://a.co/d/hzrKeel)
+- [My Best Mathematical and Logic Puzzles - Gardner](https://a.co/d/j4EWuy9)
 
 
 ### Machine Learning & Deep Learning
