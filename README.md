@@ -29,6 +29,9 @@ If you wish to contact me, send an email to [roysdonfibonaccipress@gmail.com](ma
 - [Mathematics of Classical and Quantum Physics - Byron and Fuller](https://a.co/d/8f3Sraa) The first few chapters cover the basic equations of classical physics with complete examples using vectors and matrices, calculus of variations and Hilbert spaces in physics, the next few chapters look at analytical functions, Green's theorem and integrals, and the book concludes with an introduction to Group Theory.  The notation is defined and very clear throughout with usage of standard math notation for scalars, vectors, matrices and formulae notation, e.g., summations, products, integrals, etc.  The authors even provide complete derivations (not skipping steps) in several examples. 12/22
 - [Atomic Physics - Max Born](https://a.co/d/4vvXOeR)  Like many of these older books, this one is no exception.  I really like the author's style of writing.  Non-native English speakers, or translation of a language, often portrays things very differently and I certainly like this perspective.  While this book was significantly modified by the co-authors, they did maintain much of the original text from Dr. Born and the text is well written. 12/22
 - [A Survey of Physical Theory - Max Planck](https://a.co/d/77jb6oT) This is a topical book (a survey) wherein Dr. Planck provides his thoughts on the current state of physics (in 1925).  It is rather easy to follow, very little math (I counted fewer than 10 equations), with a particularly interesting discussion on electromagnetic theory. 12/22
+- [Equations of Mathematical Physics](https://a.co/d/5bCFJAc) Great book that covers the mathematics of theoretical and experimental physics. 01/23
+- [Mathematics for Physicists](https://a.co/d/6uH3Ugy) Great book that covers the mathematics of theoretical and experimental physics. 01/23
+- [The Physical Principles of the Quantum Theory](https://a.co/d/9FpZ6JW)
 
 
 ### Math
@@ -50,6 +53,8 @@ If you wish to contact me, send an email to [roysdonfibonaccipress@gmail.com](ma
 - [Mathematical Reasoning - Sundstrom](https://a.co/d/2OIg84X) This is the textbook I used when I took an undergraduate math proofs course.  This is a great introduction.
 - [div grad culr and all that - Schey](https://a.co/d/hsvxuvY)  I used this book while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
 - [Mathematical Methods in the Physical Sciences - Boas](https://a.co/d/erH78Mg)  This is another book I used while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
+- [Proofs from THE BOOK](https://a.co/d/1KX3nYH) Mathematician Erdos, though a atheist, believed that if God had a book of the purest of math proofs, they would be assembled into "the Book".  The highest compliment he could pay to a colleague’s work was to say, "That’s straight from The Book." This book is an ensemble of proofs that many mathematicians believe might be worthy of "the Book." 01/23 
+- [A History of Mathematical Notations](https://a.co/d/hU3zuGO) this is a complete history of mathematical notation written by Professor Florian Cajori in 1923.  This is a fantastic book that I have only read chapters of.  Originally published as 2 volumes, to present day (100 years later), it is still the most comprehensive treatment of the origins of mathematical notation. 01/23
 
 Dover books: these are re-prints of great books that I read during my PhD studies.
 - [Linear Algebra - Shilov](https://a.co/d/3Sg3leS)
@@ -93,7 +98,7 @@ Fun Books when you need some thought challenges.
 - [Network Science - Barabasi](https://a.co/d/hVfSKuM)
 - [Networks: An Introduction - Newman](https://a.co/d/3St5PNH)
 - [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
-
+- [Deep Learning - Goodfellow](https://a.co/d/f8fAhEQ)  This book reads like a Ph.D. dissertation and includes equation details rarely found in other texts. 01/23
 
 ### Law, AI Law & Cyber Law
 <p align="center">
@@ -116,6 +121,7 @@ Fun Books when you need some thought challenges.
 - [The Reasonable Robot: Artificial Intelligence and the Law](https://a.co/d/aSGASsr)
 - [Is Law Computable?: Critical Perspectives on Law and Artificial Intelligence ](https://a.co/d/g2tzAlE)
 - [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw)
+- [Advanced Introduction to Cybersecurity Law](https://a.co/d/1DMnxR0)
 
 
 ### Aeronautical & Mechanical Engineering, Stability & Control, Aircraft Design
