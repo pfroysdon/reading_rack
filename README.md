@@ -115,7 +115,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://a.co/d/0sP02nU) 12/22
 - [Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://a.co/d/8nSifDZ) 12/22
 - [Artificial Intelligence And LegalTech Essentials: Advanced Series On Artificial Intelligence (AI) And Law ](https://a.co/d/h9MRc1v) 12/22
-- [Ingenious Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law] (https://www.amazon.com/Ingenious-Essays-Law-Artificial-Intelligence/dp/1736303120/ref=sr_1_5?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-5) 12/22
+- [Ingenious Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://www.amazon.com/Ingenious-Essays-Law-Artificial-Intelligence/dp/1736303120/ref=sr_1_5?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-5) 12/22
 - [Law and Artificial Intelligence: Regulating AI and Applying AI in Legal Practice)](https://a.co/d/i1SlsDL)  01/23
 - [Advanced Introduction to Law and Artificial Intelligence](https://a.co/d/011armj)  This book is **a good second book** on the subject of AI Law.  While completely different from [The Reasonable Robot](https://a.co/d/aSGASsr), it frequently cites case history as examples. 12/22
 - [Research Handbook on the Law of Artificial Intelligence](https://a.co/d/jbujeYu) 12/22
