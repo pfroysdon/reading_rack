@@ -111,19 +111,19 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 - [The Court and the Constitution - Cox](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
 - [The U.S. Constitution: A Reader](https://shop.hillsdale.edu/products/constitution-em-a-reader-em)  This was a fascinating read, with clear unbiased commentary and references throughout.  A must have for anyone wishing to learn about the past and present of the U.S. Constitution. 05/22 
-- [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://a.co/d/he8RSGC) (I will post a review soon) (12/22)
-- [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://a.co/d/0sP02nU) (12/22)
-- [Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://a.co/d/8nSifDZ) (12/22)
-- [Artificial Intelligence And LegalTech Essentials: Advanced Series On Artificial Intelligence (AI) And Law ](https://a.co/d/h9MRc1v) (12/22)
-- [Ingenious Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law] (https://www.amazon.com/Ingenious-Essays-Law-Artificial-Intelligence/dp/1736303120/ref=sr_1_5?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-5) (12/22)
-- [Law and Artificial Intelligence: Regulating AI and Applying AI in Legal Practice)](https://a.co/d/i1SlsDL)  (01/23)
-- [Advanced Introduction to Law and Artificial Intelligence](https://a.co/d/011armj)  This book is **a good second book** on the subject of AI Law.  While completely different from [The Reasonable Robot](https://a.co/d/aSGASsr), it frequently cites case history as examples. (12/22)
-- [Research Handbook on the Law of Artificial Intelligence](https://a.co/d/jbujeYu) (12/22)
+- [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://a.co/d/he8RSGC) (I will post a review soon) 12/22
+- [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://a.co/d/0sP02nU) 12/22
+- [Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://a.co/d/8nSifDZ) 12/22
+- [Artificial Intelligence And LegalTech Essentials: Advanced Series On Artificial Intelligence (AI) And Law ](https://a.co/d/h9MRc1v) 12/22
+- [Ingenious Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law] (https://www.amazon.com/Ingenious-Essays-Law-Artificial-Intelligence/dp/1736303120/ref=sr_1_5?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-5) 12/22
+- [Law and Artificial Intelligence: Regulating AI and Applying AI in Legal Practice)](https://a.co/d/i1SlsDL)  01/23
+- [Advanced Introduction to Law and Artificial Intelligence](https://a.co/d/011armj)  This book is **a good second book** on the subject of AI Law.  While completely different from [The Reasonable Robot](https://a.co/d/aSGASsr), it frequently cites case history as examples. 12/22
+- [Research Handbook on the Law of Artificial Intelligence](https://a.co/d/jbujeYu) 12/22
 - [Economics and Law of Artificial Intelligence: Finance, Economic Impacts, Risk Management and Governance](https://a.co/d/3IsKBpX)
-- [The Reasonable Robot: Artificial Intelligence and the Law](https://a.co/d/aSGASsr)  Of all the books I have read on AI Law, this is the best summary and most comprehensive view.  This is definitely **a first read** on the subject. (12/22)
-- [Is Law Computable?: Critical Perspectives on Law and Artificial Intelligence ](https://a.co/d/g2tzAlE) (01/23)
-- [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw) (01/23)
-- [Advanced Introduction to Cybersecurity Law](https://a.co/d/1DMnxR0) (02/23)
+- [The Reasonable Robot: Artificial Intelligence and the Law](https://a.co/d/aSGASsr)  Of all the books I have read on AI Law, this is the best summary and most comprehensive view.  This is definitely **a first read** on the subject. 12/22
+- [Is Law Computable?: Critical Perspectives on Law and Artificial Intelligence ](https://a.co/d/g2tzAlE) 01/23
+- [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw) 01/23
+- [Advanced Introduction to Cybersecurity Law](https://a.co/d/1DMnxR0) 02/23
 
 
 ### Aeronautical & Mechanical Engineering, Stability & Control, Aircraft Design
