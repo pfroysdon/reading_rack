@@ -172,7 +172,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 </p>
 
 **Note:** I have ~55 books that I have read and used in this area.  I will post the links, and reviews soon.
-- [Lessons Learned: A Guide to Improved Aircraft Design](https://a.co/d/4LJfcCH)
+- [Lessons Learned: A Guide to Improved Aircraft Design](https://a.co/d/4LJfcCH) **I know the author personally**
 - [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://a.co/d/fYG2VWv) 06/14
 - [Dynamics of Flight - Etkin & Reid](https://a.co/d/eEtP5ue) 06/07
 - [Fundamentals of Astrodynamics](https://a.co/d/1sdzIz9) 08/16
@@ -234,7 +234,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - Strapdown Analytics Part 1 Part 2 - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
 - Introduction to Strapdown Inertial Naviagtion Systems - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
 - Strapdown Inertial Navigation Lecture Notes - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
-- [Probabilistic Robotics - Thrun](https://a.co/d/3F3fpcV) I used this during my PhD studies 01/14
+- [Probabilistic Robotics - Thrun](https://a.co/d/3F3fpcV) **I know the author personally** I used this during my PhD studies 01/14
 - [Nonlinear Control Systems: Analysis and Design - Marquez](https://a.co/d/goJLsc8) I used this during my PhD studies 01/14
 
 
