@@ -32,6 +32,15 @@ If you wish to contact me, send an email to [roysdonfibonaccipress@gmail.com](ma
 - [Equations of Mathematical Physics](https://a.co/d/5bCFJAc) Great book that covers the mathematics of theoretical and experimental physics. 01/23
 - [Mathematics for Physicists](https://a.co/d/6uH3Ugy) Great book that covers the mathematics of theoretical and experimental physics. 01/23
 - [The Physical Principles of the Quantum Theory](https://a.co/d/9FpZ6JW)
+- [Niels Bohr's Times, In Physics, Philosophy, and Polity](https://a.co/d/9wEcLPM)
+- [History of Physics - Max von Laue](https://a.co/d/fJqyHgk)
+- [Subtle Is the Lord: The Science and the Life of Albert Einstein](https://a.co/d/8kj5cwc)
+- [Relativity - Albert Einstein](https://a.co/d/ivLxufU)
+- [Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science](https://a.co/d/bEfanb2)
+- [The Philosophy of Physics](https://a.co/d/i8eZmO1)
+- [Lectures on Physics and the Nature of Scientific Knowledge - Erwin Schrödinger](https://a.co/d/fBQuomj)
+- [Equations of Mathematical Physics](https://a.co/d/2rzXll8)
+- [The Physical Principles of the Quantum Theory - Werner Heisenberg](https://a.co/d/1CPGsWI)
 
 
 ### Math
@@ -76,12 +85,33 @@ Dover books: these are re-prints of great books that I read during my PhD studie
 - [Introduction to Graph Theory - Trudeau](https://a.co/d/fUeyQvs)
 - [Linear Algebra and Matrix Theory - Stoll](https://a.co/d/hk3cDtj)
 - [Stochastic Differential Equations - Oksendal](https://a.co/d/dOSaNaP)
+- [Introductory Real Analysis - Kolmogorov](https://a.co/d/dpmLbNe)
 
 Fun Books when you need some thought challenges.
 - [Challenging Problems in Geometry - Posamentier](https://a.co/d/dP50hXo)
 - [Challenging Problems in Algebra - Posamentier](https://a.co/d/aaGaU9D)
 - [The Moscow Puzzles - Kordemsky](https://a.co/d/hzrKeel)
 - [My Best Mathematical and Logic Puzzles - Gardner](https://a.co/d/j4EWuy9)
+
+Great review books.
+- [Schaum's Outline of Mathematical Handbook of Formulas and Tables](https://a.co/d/9x26iLT)
+- [Schaum's Outline of Tensor Calculus](https://a.co/d/120jhp0)
+- [Schaum's Outline of Differential Equations](https://a.co/d/iUkfmKy)
+- [Schaum's Outline of Geometry](https://a.co/d/iyYWTw4)
+- [Schaum's Outline of General Topology](https://a.co/d/7MDTc5D)
+- [Schaum's Outline of Intermediate Algebra](https://a.co/d/2cuAH9y)
+- [Schaum's Outline of Abstract Algebra](https://a.co/d/94LnSs1)
+- [Schaum's Outline of College Mathematics](https://a.co/d/32ZsTeh)
+- [Schaum's Outline of Trigonometry](https://a.co/d/cgEdWzh)
+- [Schaum's 3,000 Solved Problems in Calculus](https://a.co/d/bbFBkl2)
+- [Schaum's 3,000 Solved Problems in Physics](https://a.co/d/ht85Blt)
+- [Schaum's Outline of Elementary Algebra](https://a.co/d/aGBdywC)
+- [Schaum's Outline of Linear Algebra](https://a.co/d/cvp1bWN)
+- [Schaum's Outline of Probability, Random Variables, and Random Processes](https://a.co/d/hsLHxpf)
+- [Schaum's Outline of Advanced Mathematics for Engineers and Scientists](https://a.co/d/bAXOi0F)
+- [Schaum's Outline of Digital Signal Processing](https://a.co/d/0AmQoAb)
+- [Schaum's Outline of Analog and Digital Communications](https://a.co/d/33OXC07)
+- [Schaum's Outline of Feedback and Control Systems](https://a.co/d/8JbPoGz)
 
 
 ### Machine Learning & Deep Learning
@@ -101,6 +131,15 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Networks: An Introduction - Newman](https://a.co/d/3St5PNH)
 - [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
 - [Deep Learning - Goodfellow](https://a.co/d/f8fAhEQ)  This book reads like a Ph.D. dissertation and includes equation details rarely found in other texts. 01/23
+- [Machine Learning: a Concise Introduction - Knox](https://a.co/d/fxTz2xn) **I know the author personally** 06/19
+
+
+### Cyber
+
+- [Gray Hat Hacking The Ethical Hacker's Handbook](https://a.co/d/fucu1LY) 10/17
+- [The C++ Programming Language](https://a.co/d/crs3Hkx) 10/17
+- [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://a.co/d/jcALHFT) 10/17
+
 
 ### Law, AI Law & Cyber Law
 <p align="center">
@@ -133,6 +172,40 @@ Most of the ML literature I have read is contained in technical papers, which I 
 </p>
 
 **Note:** I have ~55 books that I have read and used in this area.  I will post the links, and reviews soon.
+- [Lessons Learned: A Guide to Improved Aircraft Design](https://a.co/d/4LJfcCH)
+- [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://a.co/d/fYG2VWv) 06/14
+- [Dynamics of Flight - Etkin & Reid](https://a.co/d/eEtP5ue) 06/07
+- [Fundamentals of Astrodynamics](https://a.co/d/1sdzIz9) 08/16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
 <p align="center">
@@ -149,6 +222,20 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Fundamentals of Linear State Space Systems - Bay](https://a.co/d/7hYUvfg)  This is a great book to start learning state space methods after you have read Strang's linear algebra book.  I used this in graduate school and still refer to this book.
 - [Applied Optimal Estimation - Gelb](https://a.co/d/dkecC5h) After you master Bay's book and you are interested in estimation theory, this is a great book to learn. Herein you will learn methods that are also discussed in Kay's books, but with slightly different notation.
 - [Optimal Control Theory, An Introduction- Kirk](https://a.co/d/59CXQOg) After you master Bay's book and you are interested in control theory, this is a great book to learn.
+- [Probability, Statistics, and Random Processes For Electrical Engineering](https://a.co/d/8gwoEYR)
+- [Nonlinear Systems - Khalil](https://a.co/d/9AvAQIo) I used this during my PhD studies 01/14
+- [Discrete-Time Signal Processing - Oppenheim](https://a.co/d/cEW4W73) I used this during my PhD studies 01/14
+- [Fundamentals of Wireless Communication](https://a.co/d/hRqdvoM) I used this during my PhD studies 01/14
+- [Modern Digital and Analog Communication Systems - Lathi](https://a.co/d/d0WyQoY) I used this during my PhD studies 01/14
+- [Adaptive Filter Theory - Haykin](https://a.co/d/4N1EkU3) I used this during my PhD studies 01/14
+- [Fundamentals of Kalman Filtering - Zarchan](https://a.co/d/bQxvlK8) I used this during my PhD studies 01/14
+- [Advanced Kalman Filtering, Least-Squares and Modeling: A Practical Handbook - Gibbs](https://a.co/d/hKqRXYs) I used this during my PhD studies 01/14
+- [Essentials of Robust Control - Zhou](https://a.co/d/6v6jrfZ) I used this during my PhD studies 01/14
+- Strapdown Analytics Part 1 Part 2 - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
+- Introduction to Strapdown Inertial Naviagtion Systems - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
+- Strapdown Inertial Navigation Lecture Notes - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
+- [Probabilistic Robotics - Thrun](https://a.co/d/3F3fpcV) I used this during my PhD studies 01/14
+- [Nonlinear Control Systems: Analysis and Design - Marquez](https://a.co/d/goJLsc8) I used this during my PhD studies 01/14
 
 
 ### Watchmaking
@@ -157,6 +244,14 @@ Most of the ML literature I have read is contained in technical papers, which I 
 </p>
 
 **Note:** I have ~20 books that I have read and used in this area.  I will post the links, and reviews soon.
+
+- [The Watchmakers' Staking Tool - K&D Co.](https://a.co/d/ca8E6z8) 12/19
+- [Bench Practices for Watch Repairers - Fried](https://a.co/d/9OOEiCB) 12/19
+- [2,100 Victorian Monograms (Lettering, Calligraphy, Typography)](https://a.co/d/0pUIwum) 12/19
+- [5000 Decorative Monograms for Artists and Craftspeople](https://a.co/d/6f3Fkag) 12/19
+- [Art Alphabets, Monograms, and Lettering (Lettering, Calligraphy, Typography)](https://a.co/d/9dvto4U) 12/19
+- [The Modern Watchmakers Lathe And How To Use It - Perkins](https://a.co/d/3exmfTf) 12/19
+- [Watchmaking - George Daniels](https://a.co/d/eeNBCul) 09/19
 
 
 # Technical Papers
@@ -194,6 +289,11 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 - [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond - Kranz](https://a.co/d/bVZsWaz) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
 - [Kelly: More Than My Share of It All - Johnson](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
 - [Skunk Works: A Personal Memoir of My Years of Lockheed - Rich](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
+- [The Notebooks of Leonardo Da Vinci, Vol 1](https://a.co/d/4vgSnTX) 06/16
+- [The Notebooks of Leonardo Da Vinci, Vol 2](https://a.co/d/iaVDtVt) 06/16
+- [Camping & Wilderness Survival, 2nd: The Ultimate Outdoors Book](https://a.co/d/cQs9jrs) 01/14
+- [Secret Empire: Eisenhower, the CIA, and the Hidden Story of America's Space Espionage](https://a.co/d/dCzTq7R) 08/16
+
 
 ### Leadership
 - [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://a.co/d/45dPSQe) Something I use to help write better performance appraisals. 08/22
@@ -208,7 +308,12 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 
 
 ### Poetry and Fiction
-
-
-
+- [Twelve Plays by Shakespeare](https://a.co/d/0MzQ3Jn) 11/14
+- [The Chronicles of Narnia Set](https://a.co/d/7doaGUr) 12/14
+- [Six by Lewis box set: The Abolition of Man, The Great Divorce, Mere Christianity, Miracles, The Problem of Pain, The Screwtape Letters](https://a.co/d/fn4gHi7) 02/10
+- [The Wit and Wisdom of Mark Twain](https://a.co/d/3H4JErO) 12/14
+- [Best Works of Mark Twain: Four Volumes](https://a.co/d/7Gahr5q) 12/14
+- [Henry David Thoreau : Collected Essays and Poems](https://a.co/d/8SpI4Ac) 03/15
+- [The Complete C.S. Lewis Signature Classics](https://a.co/d/0FRhld7) 08/15
+- [T.S. Eliot: The Complete Poems and Plays](https://a.co/d/0aTxR9q) 06/15
 
