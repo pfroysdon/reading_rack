@@ -93,7 +93,7 @@ Fun Books when you need some thought challenges.
 - [The Moscow Puzzles - Kordemsky](https://a.co/d/hzrKeel)
 - [My Best Mathematical and Logic Puzzles - Gardner](https://a.co/d/j4EWuy9)
 
-Great review books.
+Great review books. **If you want to learn a subject, skip the other books and just buy one of these and systematically work through every problem in every chapter, then test yourself using the included quizes and exams.**  I used these in preparation for BS, MS and PhD qualifying exams.  Each were a great review!
 - [Schaum's Outline of Mathematical Handbook of Formulas and Tables](https://a.co/d/9x26iLT)
 - [Schaum's Outline of Tensor Calculus](https://a.co/d/120jhp0)
 - [Schaum's Outline of Differential Equations](https://a.co/d/iUkfmKy)
