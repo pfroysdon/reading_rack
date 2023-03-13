@@ -136,7 +136,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Machine Learning: a Concise Introduction - Knox](https://a.co/d/fxTz2xn) **I know the author personally** 06/19
 
 
-### Cyber
+### Cyber & Software
 
 - [Book on C, A: Programming in C](https://a.co/d/2RdwR50) 04/08
 - [C Programming Language](https://a.co/d/g0LbaFB) 04/08
