@@ -112,6 +112,8 @@ Great review books. **If you want to learn a subject, skip the other books and j
 - [Schaum's Outline of Digital Signal Processing](https://a.co/d/0AmQoAb)
 - [Schaum's Outline of Analog and Digital Communications](https://a.co/d/33OXC07)
 - [Schaum's Outline of Feedback and Control Systems](https://a.co/d/8JbPoGz)
+- [Schaum's Outline of Partial Differential Equations](https://a.co/d/dWgJUWY) 02/09
+- [Schaum's Outline of Advanced Calculus](https://a.co/d/hKVI1VY) 02/09
 
 
 ### Machine Learning & Deep Learning
@@ -136,6 +138,8 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 ### Cyber
 
+- [Book on C, A: Programming in C](https://a.co/d/2RdwR50) 04/08
+- [C Programming Language](https://a.co/d/g0LbaFB) 04/08
 - [Gray Hat Hacking The Ethical Hacker's Handbook](https://a.co/d/fucu1LY) 10/17
 - [The C++ Programming Language](https://a.co/d/crs3Hkx) 10/17
 - [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://a.co/d/jcALHFT) 10/17
@@ -171,48 +175,45 @@ Most of the ML literature I have read is contained in technical papers, which I 
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3746.jpg">
 </p>
 
-**Note:** I have ~55 books that I have read and used in this area.  I will post the links, and reviews soon.
+- [Aircraft Design: A Conceptual Approach, Fourth Edition](https://a.co/d/bxIrc8N)  This book helped me design several military aircraft. **This is absolutely the best book for aircraft design, and I know the author personally**  
+- [Aircraft Design: A Conceptual Approach, Sixth Edition](https://a.co/d/eNvO2pZ)  This updated edition includes electric aircraf design. **I know the author personally**
 - [Lessons Learned: A Guide to Improved Aircraft Design](https://a.co/d/4LJfcCH) **I know the author personally**
-- [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://a.co/d/fYG2VWv) 06/14
-- [Dynamics of Flight - Etkin & Reid](https://a.co/d/eEtP5ue) 06/07
+- [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://a.co/d/fYG2VWv) THis book was purcahsed for a small and successful IRAD project. 06/14
+- [Dynamics of Flight - Etkin & Reid](https://a.co/d/eEtP5ue) This book helped me design several military aircraft. Excellent book for understanding stability variables and derivatives. 06/07
 - [Fundamentals of Astrodynamics](https://a.co/d/1sdzIz9) 08/16
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Radar Cross Section Second Edition](https://a.co/d/0GUvJPa) This book helped me design several military aircraft. 01/08
+- [Simplified Aircraft Design for Homebuilders - Raymer](https://a.co/d/7piaKyQ) **I know the author personally** 01/08  
+- [Fundamentals of Aircraft Design - Nicolai](https://a.co/d/4FGYKip) This book helped me design several military aircraft. **I know the author personally** 11/05
+- [Theoretical Aerodynamics](https://a.co/d/bSL7CWT) 08/05
+- [Theory of Wing Sections: Including a Summary of Airfoil Data](https://a.co/d/aIGVqcM) This book helped me design several military aircraft. A must have for aircraft design and wind tunnel testing 08/05
+- [Aerodynamics of Wings and Bodies](https://a.co/d/e8nDNHa) 08/05
+- [Airplane Design: Part I - Roskam](https://a.co/d/eGaNHBY) This book helped me design several military aircraft. **I know the author personally** 07/05
+- [Airplane Design: Part II - Roskam](https://a.co/d/gtZ0G1M) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part III - Roskam](https://a.co/d/j2EjwcP) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part IV - Roskam](https://a.co/d/bf7hPWY) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part V - Roskam](https://a.co/d/dMc0XQS) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part VI - Roskam](https://a.co/d/aQWL8HJ) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part VII - Roskam](https://a.co/d/efs25Pb) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part VIII - Roskam](https://a.co/d/bzrBLjF) This book helped me design several military aircraft. 07/05
+- [Airplane Flight Dynamics & Automatic Flight Controls: Part I - Roskam](https://a.co/d/3Hl6C6s) This book helped me design several military aircraft. 07/05
+- [Airplane Flight Dynamics & Automatic Flight Controls: Part II - Roskam](https://a.co/d/gZ011U0) This book helped me design several military aircraft. 07/05
+- [Fundamentals of Sailplane Design](https://a.co/d/1MIdG8Z) This book was purchased for fun and it is a great design book for sailplanes or high-altitude ISR aircraft. 04/05
+- [Dynamics and Thermodynamics of Compressible Fluid Flow: v.1 - Shapiro](https://a.co/d/5s6R1gQ) I used this text while in grad school, great book! 12/07
+- [Modeling and Simulation of Aerospace Vehicle Dynamics](https://a.co/d/ihyAerW) This book helped me design several military aircraft. 11/08
+- [Fluid-Dynamic Drag: Theoretical, experimental and statistical information - Hoerner](https://a.co/d/jdYlmEp) A must-have for aircraft design 10/08
+- [Fluid-Dynamic Lift: Theoretical, experimental and statistical information - Hoerner](https://a.co/d/5jIPEIX) A must-have for aircraft design 10/08
+- [Intake Aerodynamics](https://a.co/d/ak0jNkq) This book helped me design intakes of several military aircraft. 10/08
+- [Boundary Layer Theory - Schlichting](https://a.co/d/cRdJMr1) I used this text while in grad school, great book! 10/08
+- [Fighter Combat: Tactics and Maneuvering](https://a.co/d/2KfRzUc) Great book for miltary aircraft flight testing. 05/08
+- [Gas Dynamics, Volume 1 - Zucrow & Hoffman](https://a.co/d/6R4mtJi) I used this text while in grad school, great book! 02/09
+- [Flight Testing of Fixed-Wing Aircraft - Kimberlin](https://a.co/d/fUQTkiQ) Great book for flight test planning and analysis 01/09
+- [Aircraft Control and Simulation - Stevens & Lewis](https://a.co/d/1Ot35ly) Great book for 6DOF simulation design. 10/10
 
 
 ### Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
 <p align="center">
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3743.jpg">
 </p>
-
-**Note:** I have ~40 books that I have read and used in this area.  I will post the links, and reviews soon.
 
 - [Aided Navigation, GPS with High Rate Sensors - Farrell](https://a.co/d/7uAmnbz) **This was my PhD adviser**.  His book is the reason I petitioned him to be his PhD student.  Farrell and this book are known world-wide.  **This book is one of the few books that I have seen where every variable is clearly defined and explained**.  I learned so much from Dr. Farrell and I have carried forward his instruction into how I write [my books](https://roysdonfibonaccipress.com).  This is a great book on Kalman Filters, GPS-INS navigation, AHRS, GPS positioning, smoothing, and state estimation.
 - [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems - Groves](https://a.co/d/dR3mMAZ)  This is my go-to book when I need the kinematic equations and their derivatives in multiple reference frames, e.g., ECI to ECEF, or NED to ECEF, etc.  Of course his book has many other topics, but the reference frame descriptions are the best I have seen in any book.  This is a great book that I reference frequently.
@@ -236,6 +237,8 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - Strapdown Inertial Navigation Lecture Notes - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
 - [Probabilistic Robotics - Thrun](https://a.co/d/3F3fpcV) **I know the author personally** I used this during my PhD studies 01/14
 - [Nonlinear Control Systems: Analysis and Design - Marquez](https://a.co/d/goJLsc8) I used this during my PhD studies 01/14
+- [Global Positioning Systems, Inertial Navigation, and Integration - Grewal](https://a.co/d/7Bv7LzL) **I know the author personally** 07/10
+- [Kalman Filtering : Theory and Practice Using MATLAB](https://a.co/d/iaVpqAZ) **I know the author personally** 07/10
 
 
 ### Watchmaking
@@ -243,15 +246,14 @@ Most of the ML literature I have read is contained in technical papers, which I 
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3747.jpg">
 </p>
 
-**Note:** I have ~20 books that I have read and used in this area.  I will post the links, and reviews soon.
-
-- [The Watchmakers' Staking Tool - K&D Co.](https://a.co/d/ca8E6z8) 12/19
+- [Watchmaking - George Daniels](https://a.co/d/eeNBCul) The best book to get you started in watchmaking. 09/19
+- [The Watchmakers' Staking Tool - K&D Co.](https://a.co/d/ca8E6z8) Ver useful to undersatnd the staking tool and its applications. 12/19
 - [Bench Practices for Watch Repairers - Fried](https://a.co/d/9OOEiCB) 12/19
-- [2,100 Victorian Monograms (Lettering, Calligraphy, Typography)](https://a.co/d/0pUIwum) 12/19
-- [5000 Decorative Monograms for Artists and Craftspeople](https://a.co/d/6f3Fkag) 12/19
-- [Art Alphabets, Monograms, and Lettering (Lettering, Calligraphy, Typography)](https://a.co/d/9dvto4U) 12/19
-- [The Modern Watchmakers Lathe And How To Use It - Perkins](https://a.co/d/3exmfTf) 12/19
-- [Watchmaking - George Daniels](https://a.co/d/eeNBCul) 09/19
+- [2,100 Victorian Monograms (Lettering, Calligraphy, Typography)](https://a.co/d/0pUIwum) A great reference for artistic design that is nearly a lost art. 12/19
+- [5000 Decorative Monograms for Artists and Craftspeople](https://a.co/d/6f3Fkag) A great reference for artistic design that is nearly a lost art. 12/19
+- [Art Alphabets, Monograms, and Lettering (Lettering, Calligraphy, Typography)](https://a.co/d/9dvto4U) A great reference for artistic design that is nearly a lost art. 12/19
+- [The Modern Watchmakers Lathe And How To Use It - Perkins](https://a.co/d/3exmfTf) Great book for understanding different lathe tools and how to use them correctly. 12/19
+
 
 
 # Technical Papers
@@ -293,6 +295,12 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 - [The Notebooks of Leonardo Da Vinci, Vol 2](https://a.co/d/iaVDtVt) 06/16
 - [Camping & Wilderness Survival, 2nd: The Ultimate Outdoors Book](https://a.co/d/cQs9jrs) 01/14
 - [Secret Empire: Eisenhower, the CIA, and the Hidden Story of America's Space Espionage](https://a.co/d/dCzTq7R) 08/16
+- [More Shop Drawings for Craftsman Furniture: 30 Stickley Designs for Every Room in the Home](https://a.co/d/hB3sll8) 05/11
+- [The Furniture of Gustav Stickley: History, Techniques, and Projects](https://a.co/d/e8ednL9) 05/11
+- [Making Authentic Craftsman Furniture: Instructions and Plans for 62 Projects](https://a.co/d/bHAapqT) 05/11
+- [Shop Drawings for Craftsman Furniture: 27 Stickley Designs for Every Room in the Home](https://a.co/d/bXg4rWS) 05/11
+- [Shop Drawings for Craftsman Interiors: Cabinets, Moldings & Built-Ins for Every Room in the Home](https://a.co/d/c7zEeyW) 05/11
+- [Shop Drawings for Craftsman Inlays & Hardware: Original Designs by Gustav Stickley](https://a.co/d/dOZLGau) 05/11
 
 
 ### Leadership
@@ -316,4 +324,6 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 - [Henry David Thoreau : Collected Essays and Poems](https://a.co/d/8SpI4Ac) 03/15
 - [The Complete C.S. Lewis Signature Classics](https://a.co/d/0FRhld7) 08/15
 - [T.S. Eliot: The Complete Poems and Plays](https://a.co/d/0aTxR9q) 06/15
+- [Robert Frost: Collected Poems, Prose, and Plays](https://a.co/d/eKGeyfb) 01/09
+- [Whitman: Poetry and Prose](https://a.co/d/jiCzK9E) 01/09
 
