@@ -20,27 +20,27 @@ If you wish to contact me, send an email to [roysdonfibonaccipress@gmail.com](ma
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3748.jpg">
 </p>
 
-- [Eight Lectures on Theoretical Physics - Max Planck](https://a.co/d/fXXLdD6) Great lectures and very eloquent.  Dr. Planck takes soft approach to introduce very advanced topics of the day (1909) and describes the problems beautifully.  I wish I was alive and present when he presented. 11/22
-- [Theoretical Physics - Georg Joos](https://a.co/d/9C2IwI5) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
-- [Theoretical Nuclear Physics - Blatt and Weisskopf](https://a.co/d/7Ic3WSX) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
-- [An Introduction to Nuclear Fission](https://a.co/d/d42gBdj) This states that it is a graduate-level book, but I think it is really an undergrad book.  The math is easy, most of which you can do mentally, and the concepts are well described.  A good introduction to the subject. My primary criticism is the notation is not introduced and it is unclear throughout the text, e.g., it is not clear if a variable is a vector or scalar until you see the variable in an equation and perform a calculation, then by deduction you can see that the variable is clearly a scalar.  11/22
-- [Physics of Waves - Elmore and Heald](https://a.co/d/csDqUIq) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
-- [Einstein's Theory of Relativity - Max Born](https://a.co/d/ggTQWRW)
-- [Mathematics of Classical and Quantum Physics - Byron and Fuller](https://a.co/d/8f3Sraa) The first few chapters cover the basic equations of classical physics with complete examples using vectors and matrices, calculus of variations and Hilbert spaces in physics, the next few chapters look at analytical functions, Green's theorem and integrals, and the book concludes with an introduction to Group Theory.  The notation is defined and very clear throughout with usage of standard math notation for scalars, vectors, matrices and formulae notation, e.g., summations, products, integrals, etc.  The authors even provide complete derivations (not skipping steps) in several examples. 12/22
-- [Atomic Physics - Max Born](https://a.co/d/4vvXOeR)  Like many of these older books, this one is no exception.  I really like the author's style of writing.  Non-native English speakers, or translation of a language, often portrays things very differently and I certainly like this perspective.  While this book was significantly modified by the co-authors, they did maintain much of the original text from Dr. Born and the text is well written. 12/22
-- [A Survey of Physical Theory - Max Planck](https://a.co/d/77jb6oT) This is a topical book (a survey) wherein Dr. Planck provides his thoughts on the current state of physics (in 1925).  It is rather easy to follow, very little math (I counted fewer than 10 equations), with a particularly interesting discussion on electromagnetic theory. 12/22
-- [Equations of Mathematical Physics](https://a.co/d/5bCFJAc) Great book that covers the mathematics of theoretical and experimental physics. 01/23
-- [Mathematics for Physicists](https://a.co/d/6uH3Ugy) Great book that covers the mathematics of theoretical and experimental physics. 01/23
-- [The Physical Principles of the Quantum Theory](https://a.co/d/9FpZ6JW)
-- [Niels Bohr's Times, In Physics, Philosophy, and Polity](https://a.co/d/9wEcLPM)
-- [History of Physics - Max von Laue](https://a.co/d/fJqyHgk)
-- [Subtle Is the Lord: The Science and the Life of Albert Einstein](https://a.co/d/8kj5cwc)
-- [Relativity - Albert Einstein](https://a.co/d/ivLxufU)
-- [Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science](https://a.co/d/bEfanb2)
-- [The Philosophy of Physics](https://a.co/d/i8eZmO1)
-- [Lectures on Physics and the Nature of Scientific Knowledge - Erwin Schrödinger](https://a.co/d/fBQuomj)
-- [Equations of Mathematical Physics](https://a.co/d/2rzXll8)
-- [The Physical Principles of the Quantum Theory - Werner Heisenberg](https://a.co/d/1CPGsWI)
+- [Eight Lectures on Theoretical Physics - Max Planck](https://amzn.to/3JHmnq2) Great lectures and very eloquent.  Dr. Planck takes soft approach to introduce very advanced topics of the day (1909) and describes the problems beautifully.  I wish I was alive and present when he presented. 11/22
+- [Theoretical Physics - Georg Joos](https://amzn.to/3JXoKGk) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
+- [Theoretical Nuclear Physics - Blatt and Weisskopf](https://amzn.to/3FIazm9) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
+- [An Introduction to Nuclear Fission](https://amzn.to/3JXp1sQ) This states that it is a graduate-level book, but I think it is really an undergrad book.  The math is easy, most of which you can do mentally, and the concepts are well described.  A good introduction to the subject. My primary criticism is the notation is not introduced and it is unclear throughout the text, e.g., it is not clear if a variable is a vector or scalar until you see the variable in an equation and perform a calculation, then by deduction you can see that the variable is clearly a scalar.  11/22
+- [Physics of Waves - Elmore and Heald](https://amzn.to/3FCJD7m) Great book by a master.  Like many physics books there is a lot of algebra, linear algebra and some calculus.  If you have a good foundation in these subjects, then the physics will be easier to understand. 11/22
+- [Einstein's Theory of Relativity - Max Born](https://amzn.to/3LGl255)
+- [Mathematics of Classical and Quantum Physics - Byron and Fuller](https://amzn.to/3FF3R09) The first few chapters cover the basic equations of classical physics with complete examples using vectors and matrices, calculus of variations and Hilbert spaces in physics, the next few chapters look at analytical functions, Green's theorem and integrals, and the book concludes with an introduction to Group Theory.  The notation is defined and very clear throughout with usage of standard math notation for scalars, vectors, matrices and formulae notation, e.g., summations, products, integrals, etc.  The authors even provide complete derivations (not skipping steps) in several examples. 12/22
+- [Atomic Physics - Max Born](https://amzn.to/42mWoMS)  Like many of these older books, this one is no exception.  I really like the author's style of writing.  Non-native English speakers, or translation of a language, often portrays things very differently and I certainly like this perspective.  While this book was significantly modified by the co-authors, they did maintain much of the original text from Dr. Born and the text is well written. 12/22
+- [A Survey of Physical Theory - Max Planck](https://amzn.to/3FGi2SL) This is a topical book (a survey) wherein Dr. Planck provides his thoughts on the current state of physics (in 1925).  It is rather easy to follow, very little math (I counted fewer than 10 equations), with a particularly interesting discussion on electromagnetic theory. 12/22
+- [Equations of Mathematical Physics](https://amzn.to/3FCRKk8) Great book that covers the mathematics of theoretical and experimental physics. 01/23
+- [Mathematics for Physicists](https://amzn.to/40mXrKY) Great book that covers the mathematics of theoretical and experimental physics. 01/23
+- [The Physical Principles of the Quantum Theory](https://amzn.to/3Z124ct)
+- [Niels Bohr's Times, In Physics, Philosophy, and Polity](https://amzn.to/42se2im)
+- [History of Physics - Max von Laue](https://amzn.to/40mXExK)
+- [Subtle Is the Lord: The Science and the Life of Albert Einstein](https://amzn.to/3TO0kCJ)
+- [Relativity - Albert Einstein](hhttps://amzn.to/3Z4lu0b)
+- [Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science](https://amzn.to/3lx3jCI)
+- [The Philosophy of Physics](https://amzn.to/3JTPFCV)
+- [Lectures on Physics and the Nature of Scientific Knowledge - Erwin Schrödinger](https://amzn.to/3lAjX4j)
+- [Equations of Mathematical Physics](https://amzn.to/3JX7LUF)
+- [The Physical Principles of the Quantum Theory - Werner Heisenberg](https://amzn.to/3JV4kOm)
 
 
 ### Math
@@ -48,72 +48,72 @@ If you wish to contact me, send an email to [roysdonfibonaccipress@gmail.com](ma
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3744.jpg">
 </p>
 
-- [Mathematische Formeln - Sieber](https://a.co/d/1R0UPwD) **My preferred short-form (48 pages) math reference.** Apparently every German high school student receives this book! I received this book when I studied in Germany, and during my undergrad I added notes throughout this text, e.g. the definition of a series can be defined in sequence or with a summation, I added the summation form, etc.  **I have considered translating this book (with my notes) for English speaking students.  Send me an email if you are interested.**
-- [Handbook of Mathematics - Bronshtein](https://a.co/d/awF7Soi) **My preferred long-form (1251 pages) math reference.**  This book helped me get through college.  This book is commonly used in German schools for science and engineering students. 
-- [Matrix Mathematics - Bernsten](https://a.co/d/cLOjA5T) A single source for nearly all linear algebra derivations, proofs and theory.  This is a great book to have once you master the skills in Noble and Golub's books (of course assuming you already read Strang's book).
-- [Applied Linear Algebra - Noble & Daniel](https://a.co/d/7Ytdmg2) This is a graduate-level book that covers more difficult topics and theory in linear algebra.  I used this in graduate school and I highly recommend this book.
-- [Matrix Computations - Golub & van Loan](https://a.co/d/3nzKslD)  This is another graduate-level book that specifically discusses difficult applied problems like numerical optimization using the modified Gram-Schmidt, CS Decomposition, and sparse unsymmetric linear systems.  I used this in graduate school and I highly recommend this book. 
-- [Linear Algebra and its Applications - Strang](https://a.co/d/iNpdzHy)  This is the **best** starter book in linear algebra (undergraduate level).  The concepts are clearly defined and build in difficulty with each chapter.
-- [Theory of Optimal Search - Stone](https://a.co/d/g24uCYR)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
-- [Optimal Search for Moving Targets - Stone, et.al.](https://a.co/d/2f2S4Um)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
-- [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/7Gj5DGH)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 12/22
-- [Proofs: A Long-Form Mathematics Textbook - Cummings](https://a.co/d/isHNgCW)  This is a great book, and if you read the author's book on Real Analysis.  **The dedication in this book is priceless.** 12/22
-- [Mathematical Notation - A guide for Engineers and Scientists](https://a.co/d/gNmvUQh) This is a great guide that is similar to my [Math Handbook](https://www.roysdonfibonaccipress.com/shop/p/math-handbook-for-machine-learning), and a great reference if you are confused with math symbols, e.g., you cannot remember the symbol for a method or you cannot remember the meaning of a math symbol. 12/22
-- [Mathematical Reasoning - Sundstrom](https://a.co/d/2OIg84X) This is the textbook I used when I took an undergraduate math proofs course.  This is a great introduction.
-- [div grad culr and all that - Schey](https://a.co/d/hsvxuvY)  I used this book while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
-- [Mathematical Methods in the Physical Sciences - Boas](https://a.co/d/erH78Mg)  This is another book I used while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
-- [Proofs from THE BOOK](https://a.co/d/1KX3nYH) Mathematician Erdos, though a atheist, believed that if God had a book of the purest of math proofs, they would be assembled into "the Book".  The highest compliment he could pay to a colleague’s work was to say, "That’s straight from The Book." This book is an ensemble of proofs that many mathematicians believe might be worthy of "the Book." 01/23 
-- [A History of Mathematical Notations](https://a.co/d/hU3zuGO) this is a complete history of mathematical notation written by Professor Florian Cajori in 1923.  This is a fantastic book that I have only read chapters of.  Originally published as 2 volumes, to present day (100 years later), it is still the most comprehensive treatment of the origins of mathematical notation. 01/23
+- [Mathematische Formeln - Sieber](https://amzn.to/404Vtzj) **My preferred short-form (48 pages) math reference.** Apparently every German high school student receives this book! I received this book when I studied in Germany, and during my undergrad I added notes throughout this text, e.g. the definition of a series can be defined in sequence or with a summation, I added the summation form, etc.  **I have considered translating this book (with my notes) for English speaking students.  Send me an email if you are interested.**
+- [Handbook of Mathematics - Bronshtein](https://amzn.to/3TzRzM7) **My preferred long-form (1251 pages) math reference.**  This book helped me get through college.  This book is commonly used in German schools for science and engineering students. 
+- [Matrix Mathematics - Bernsten](https://amzn.to/3yU17bq) A single source for nearly all linear algebra derivations, proofs and theory.  This is a great book to have once you master the skills in Noble and Golub's books (of course assuming you already read Strang's book).
+- [Applied Linear Algebra - Noble & Daniel](https://amzn.to/3TyxeqE) This is a graduate-level book that covers more difficult topics and theory in linear algebra.  I used this in graduate school and I highly recommend this book.
+- [Matrix Computations - Golub & van Loan](https://amzn.to/42mX7O6)  This is another graduate-level book that specifically discusses difficult applied problems like numerical optimization using the modified Gram-Schmidt, CS Decomposition, and sparse unsymmetric linear systems.  I used this in graduate school and I highly recommend this book. 
+- [Linear Algebra and its Applications - Strang](https://amzn.to/3yUlllc)  This is the **best** starter book in linear algebra (undergraduate level).  The concepts are clearly defined and build in difficulty with each chapter.
+- [Theory of Optimal Search - Stone](https://amzn.to/40kD3tO)  Great book. The author is right (in the preface), you really need to understand mathematics to understand this book.  It is very dense. 11/22
+- [Optimal Search for Moving Targets - Stone, et.al.](https://amzn.to/403UDTb)  Great book.  Most of the methods use ILP or MILP, and they have a few examples in Matlab.  Several years ago I built an ILP toolbox ([ILP Lite](https://github.com/pfroysdon/projects/blob/main/applied_math/ilpLite)) and I was able to solve many problems in this book using ILP Lite. 11/22
+- [Real Analysis: A Long-Form Mathematics Textbook - Cummings](https://amzn.to/3lsoKoy)  I really like this young authors approach to Real Analysis.  He provides several examples that are clear and complete.  Most authors skip steps and expect the reader to fill-in the gaps, Cummings does not. 12/22
+- [Proofs: A Long-Form Mathematics Textbook - Cummings](https://amzn.to/3Z6swS0)  This is a great book, and if you read the author's book on Real Analysis.  **The dedication in this book is priceless.** 12/22
+- [Mathematical Notation - A guide for Engineers and Scientists](https://amzn.to/3ndqHp6) This is a great guide that is similar to my [Math Handbook](https://www.roysdonfibonaccipress.com/shop/p/math-handbook-for-machine-learning), and a great reference if you are confused with math symbols, e.g., you cannot remember the symbol for a method or you cannot remember the meaning of a math symbol. 12/22
+- [Mathematical Reasoning - Sundstrom](https://amzn.to/3Z4zffd) This is the textbook I used when I took an undergraduate math proofs course.  This is a great introduction.
+- [div grad culr and all that - Schey](https://amzn.to/40ozVgD)  I used this book while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
+- [Mathematical Methods in the Physical Sciences - Boas](https://amzn.to/3n9FJMN)  This is another book I used while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
+- [Proofs from THE BOOK](https://amzn.to/4042Dn7) Mathematician Erdos, though a atheist, believed that if God had a book of the purest of math proofs, they would be assembled into "the Book".  The highest compliment he could pay to a colleague’s work was to say, "That’s straight from The Book." This book is an ensemble of proofs that many mathematicians believe might be worthy of "the Book." 01/23 
+- [A History of Mathematical Notations](https://amzn.to/4042Dn7) this is a complete history of mathematical notation written by Professor Florian Cajori in 1923.  This is a fantastic book that I have only read chapters of.  Originally published as 2 volumes, to present day (100 years later), it is still the most comprehensive treatment of the origins of mathematical notation. 01/23
 
 Dover books: these are re-prints of great books that I read during my PhD studies.
-- [Linear Algebra - Shilov](https://a.co/d/3Sg3leS)
-- [Introduction to Partial Differential Equations with Applications - Zachmanoglou](https://a.co/d/ibWSLDx)
-- [Introduction to Stochastic Control Theory - Astrom](https://a.co/d/fJrR8Si)
-- [Optimal Control and Estimation - Stengel](https://a.co/d/hAIv7Ff)
-- [Nonlinear Filtering and Smoothing - Krishnan](https://a.co/d/0PWQVln)
-- [An Introduction to Random Vibrations, Spectral & Wavelet Analysis - Newland](https://a.co/d/0RbgpVX)
-- [Ordinary Differential Equations - Tenenbaum](https://a.co/d/4777BWg)
-- [Partial Differential Equations for Scientists and Engineers - Farlow](https://a.co/d/aGi4K57)
-- [Stochastic Processes and Filtering Theory - Jazwinski](https://a.co/d/cpGA09S)
-- [Lyapunov Matrix Equation in System Stability and Control - Gajic](https://a.co/d/gpz6IgD)
-- [Principles of Statistics - Bulmer](https://a.co/d/bPs72Hr)
-- [Introduction to Graph Theory - Chartrand](https://a.co/d/j4DNkvg)
-- [Geometry: A Comprehensive Course - Pedoe](https://a.co/d/9F8cAXi)
-- [Introduction to Topology - Mendelson](https://a.co/d/dYRbSB8)
-- [Probability Theory: A Concise Course - Rozanov](https://a.co/d/5Idm2UT)
-- [Introduction to Information Theory: Symbols, Signals and Noise - Pierce](https://a.co/d/h2Vnrah)
-- [Introduction to Graph Theory - Trudeau](https://a.co/d/fUeyQvs)
-- [Linear Algebra and Matrix Theory - Stoll](https://a.co/d/hk3cDtj)
-- [Stochastic Differential Equations - Oksendal](https://a.co/d/dOSaNaP)
-- [Introductory Real Analysis - Kolmogorov](https://a.co/d/dpmLbNe)
+- [Linear Algebra - Shilov](https://amzn.to/42mXqbI)
+- [Introduction to Partial Differential Equations with Applications - Zachmanoglou](https://amzn.to/3JZjYs6)
+- [Introduction to Stochastic Control Theory - Astrom](https://amzn.to/3JY9lFV)
+- [Optimal Control and Estimation - Stengel](https://amzn.to/3lzIC9d)
+- [Nonlinear Filtering and Smoothing - Krishnan](https://amzn.to/3TG4w7q)
+- [An Introduction to Random Vibrations, Spectral & Wavelet Analysis - Newland](https://amzn.to/3JWYQCw)
+- [Ordinary Differential Equations - Tenenbaum](https://amzn.to/3JBd1f7)
+- [Partial Differential Equations for Scientists and Engineers - Farlow](https://amzn.to/3JxduPD)
+- [Stochastic Processes and Filtering Theory - Jazwinski](https://amzn.to/3JxTHja)
+- [Lyapunov Matrix Equation in System Stability and Control - Gajic](https://amzn.to/407FqR7)
+- [Principles of Statistics - Bulmer](https://amzn.to/3Txb5Ja)
+- [Introduction to Graph Theory - Chartrand](https://amzn.to/3TygkZ8)
+- [Geometry: A Comprehensive Course - Pedoe](https://amzn.to/40ptWYV)
+- [Introduction to Topology - Mendelson](https://amzn.to/3JX3FMl)
+- [Probability Theory: A Concise Course - Rozanov](https://amzn.to/3yWEO4X)
+- [Introduction to Information Theory: Symbols, Signals and Noise - Pierce](https://amzn.to/3JXrFyP)
+- [Introduction to Graph Theory - Trudeau](https://amzn.to/3TygkZ8)
+- [Linear Algebra and Matrix Theory - Stoll](https://amzn.to/3FG6zm2)
+- [Stochastic Differential Equations - Oksendal](https://amzn.to/3Z7OEf1)
+- [Introductory Real Analysis - Kolmogorov](https://amzn.to/3TzSrQT)
 
 Fun Books when you need some thought challenges.
-- [Challenging Problems in Geometry - Posamentier](https://a.co/d/dP50hXo)
-- [Challenging Problems in Algebra - Posamentier](https://a.co/d/aaGaU9D)
-- [The Moscow Puzzles - Kordemsky](https://a.co/d/hzrKeel)
-- [My Best Mathematical and Logic Puzzles - Gardner](https://a.co/d/j4EWuy9)
+- [Challenging Problems in Geometry - Posamentier](https://amzn.to/40IePu3)
+- [Challenging Problems in Algebra - Posamentier](https://amzn.to/40oEveP)
+- [The Moscow Puzzles - Kordemsky](https://amzn.to/3n12J0g)
+- [My Best Mathematical and Logic Puzzles - Gardner](https://amzn.to/40nKpwT)
 
 Great review books. **If you want to learn a subject, skip the other books and just buy one of these and systematically work through every problem in every chapter, then test yourself using the included quizes and exams.**  I used these in preparation for BS, MS and PhD qualifying exams.  Each were a great review!
-- [Schaum's Outline of Mathematical Handbook of Formulas and Tables](https://a.co/d/9x26iLT)
-- [Schaum's Outline of Tensor Calculus](https://a.co/d/120jhp0)
-- [Schaum's Outline of Differential Equations](https://a.co/d/iUkfmKy)
-- [Schaum's Outline of Geometry](https://a.co/d/iyYWTw4)
-- [Schaum's Outline of General Topology](https://a.co/d/7MDTc5D)
-- [Schaum's Outline of Intermediate Algebra](https://a.co/d/2cuAH9y)
-- [Schaum's Outline of Abstract Algebra](https://a.co/d/94LnSs1)
-- [Schaum's Outline of College Mathematics](https://a.co/d/32ZsTeh)
-- [Schaum's Outline of Trigonometry](https://a.co/d/cgEdWzh)
-- [Schaum's 3,000 Solved Problems in Calculus](https://a.co/d/bbFBkl2)
-- [Schaum's 3,000 Solved Problems in Physics](https://a.co/d/ht85Blt)
-- [Schaum's Outline of Elementary Algebra](https://a.co/d/aGBdywC)
-- [Schaum's Outline of Linear Algebra](https://a.co/d/cvp1bWN)
-- [Schaum's Outline of Probability, Random Variables, and Random Processes](https://a.co/d/hsLHxpf)
-- [Schaum's Outline of Advanced Mathematics for Engineers and Scientists](https://a.co/d/bAXOi0F)
-- [Schaum's Outline of Digital Signal Processing](https://a.co/d/0AmQoAb)
-- [Schaum's Outline of Analog and Digital Communications](https://a.co/d/33OXC07)
-- [Schaum's Outline of Feedback and Control Systems](https://a.co/d/8JbPoGz)
-- [Schaum's Outline of Partial Differential Equations](https://a.co/d/dWgJUWY) 02/09
-- [Schaum's Outline of Advanced Calculus](https://a.co/d/hKVI1VY) 02/09
+- [Schaum's Outline of Mathematical Handbook of Formulas and Tables](https://amzn.to/3JB1Hjf)
+- [Schaum's Outline of Tensor Calculus](https://amzn.to/3yXhCne)
+- [Schaum's Outline of Differential Equations](https://amzn.to/3Z5AbQH)
+- [Schaum's Outline of Geometry](https://amzn.to/3yXhGDu)
+- [Schaum's Outline of General Topology](https://amzn.to/3lu4SBe)
+- [Schaum's Outline of Intermediate Algebra](https://amzn.to/3TAyslg)
+- [Schaum's Outline of Abstract Algebra](https://amzn.to/3FGWYey)
+- [Schaum's Outline of College Mathematics](https://amzn.to/3TygT5c)
+- [Schaum's Outline of Trigonometry](https://amzn.to/42w1kz5)
+- [Schaum's 3,000 Solved Problems in Calculus](https://amzn.to/3Z5ua6s)
+- [Schaum's 3,000 Solved Problems in Physics](https://amzn.to/3Z5ucv6)
+- [Schaum's Outline of Elementary Algebra](https://amzn.to/40sduHh)
+- [Schaum's Outline of Linear Algebra](https://amzn.to/40lSpyo)
+- [Schaum's Outline of Probability, Random Variables, and Random Processes](https://amzn.to/40h5r06)
+- [Schaum's Outline of Advanced Mathematics for Engineers and Scientists](https://amzn.to/40kCPmy)
+- [Schaum's Outline of Digital Signal Processing](https://amzn.to/40cHQhC)
+- [Schaum's Outline of Analog and Digital Communications](https://amzn.to/3n9tdga)
+- [Schaum's Outline of Feedback and Control Systems](https://amzn.to/40pH3tf)
+- [Schaum's Outline of Partial Differential Equations](https://amzn.to/3nc264f) 02/09
+- [Schaum's Outline of Advanced Calculus](https://amzn.to/42w1whN) 02/09
 
 
 ### Machine Learning & Deep Learning
@@ -123,17 +123,17 @@ Great review books. **If you want to learn a subject, skip the other books and j
 
 Most of the ML literature I have read is contained in technical papers, which I have supplied in section Technical Papers / Machine Learning and Artificial Intelligence.
 
-- [Deep Learning with Python, Second Edition 2nd Edition - Chollet](https://a.co/d/cZmyLF1)  Good tutorial book for a beginner in ML. Several examples that you will not find elsewhere. 06/22
-- [Reinforcement Learning, second edition: An Introduction - Sutton](https://a.co/d/8pJHcRp) Great book on RL.  I took very careful notes (I will soon post them [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes) and implemented these methods on a few projects. 10/21
-- [Pattern Recognition and Machine Learning - Bishop](https://a.co/d/3ptLp5u)  Good book, mostly simple ML methods, but very well written by an experienced practitioner at Microsoft Research. 04/22
-- [Pattern Classification 2nd Edition - Duda and Hart](https://a.co/d/8bA2Bdt) Good book, something I have used since graduate school.  Duda discusses fundamental concepts at a time when this field was new, but still relevant today. 04/22
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition - Hastie and Tibshirani](https://a.co/d/2vP8iRA) Fantastic book.  Graduate-level and very detailed mathematics and examples.  I frequently use this reference in my work. My notes and derivations are posted [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes). 09/21
-- [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibshirani](https://a.co/d/aDsRvba) Fantastic book.  Undergraduate-level with simplified examples from the prior book. I frequently use this reference in my work. 09/21
-- [Network Science - Barabasi](https://a.co/d/hVfSKuM)
-- [Networks: An Introduction - Newman](https://a.co/d/3St5PNH)
-- [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://a.co/d/fOf79Uo)
-- [Deep Learning - Goodfellow](https://a.co/d/f8fAhEQ)  This book reads like a Ph.D. dissertation and includes equation details rarely found in other texts. 01/23
-- [Machine Learning: a Concise Introduction - Knox](https://a.co/d/fxTz2xn) **I know the author personally** 06/19
+- [Deep Learning with Python, Second Edition 2nd Edition - Chollet](https://amzn.to/3TyCASM)  Good tutorial book for a beginner in ML. Several examples that you will not find elsewhere. 06/22
+- [Reinforcement Learning, second edition: An Introduction - Sutton](https://amzn.to/3JzAwW3) Great book on RL.  I took very careful notes (I will soon post them [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes) and implemented these methods on a few projects. 10/21
+- [Pattern Recognition and Machine Learning - Bishop](https://amzn.to/3TyCA5e)  Good book, mostly simple ML methods, but very well written by an experienced practitioner at Microsoft Research. 04/22
+- [Pattern Classification 2nd Edition - Duda and Hart](https://amzn.to/3JUH1UO) Good book, something I have used since graduate school.  Duda discusses fundamental concepts at a time when this field was new, but still relevant today. 04/22
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition - Hastie and Tibshirani](https://amzn.to/3lx0yBo) Fantastic book.  Graduate-level and very detailed mathematics and examples.  I frequently use this reference in my work. My notes and derivations are posted [here](https://github.com/pfroysdon/publications/tree/main/Math_Notes). 09/21
+- [An Introduction to Statistical Learning: with Applications in R - Hastie and Tibshirani](https://amzn.to/3JX4CnT) Fantastic book.  Undergraduate-level with simplified examples from the prior book. I frequently use this reference in my work. 09/21
+- [Network Science - Barabasi](https://amzn.to/3Z6zs1H)
+- [Networks: An Introduction - Newman](https://amzn.to/3LF8hI2)
+- [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://amzn.to/3JA2qkT)
+- [Deep Learning - Goodfellow](https://amzn.to/3LFSZ5O)  This book reads like a Ph.D. dissertation and includes equation details rarely found in other texts. 01/23
+- [Machine Learning: a Concise Introduction - Knox](https://amzn.to/3Z7JaB1) **I know the author personally** 06/19
 
 
 ### Cyber & Software
