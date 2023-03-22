@@ -138,11 +138,11 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 ### Cyber & Software
 
-- [Book on C, A: Programming in C](https://a.co/d/2RdwR50) 04/08
-- [C Programming Language](https://a.co/d/g0LbaFB) 04/08
-- [Gray Hat Hacking The Ethical Hacker's Handbook](https://a.co/d/fucu1LY) 10/17
-- [The C++ Programming Language](https://a.co/d/crs3Hkx) 10/17
-- [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://a.co/d/jcALHFT) 10/17
+- [Book on C, A: Programming in C](https://amzn.to/3FGEGuf) 04/08
+- [C Programming Language](https://amzn.to/3LGJljl) 04/08
+- [Gray Hat Hacking The Ethical Hacker's Handbook](https://amzn.to/40ho586) 10/17
+- [The C++ Programming Language](https://amzn.to/3lvgxQi) 10/17
+- [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://amzn.to/40nmZrm) 10/17
 
 
 ### Law, AI Law & Cyber Law
@@ -152,21 +152,21 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 **Note:** I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
 
-- [The Court and the Constitution - Cox](https://a.co/d/g1Xjts0) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
+- [The Court and the Constitution - Cox](https://amzn.to/42wjzEz) Great book that describes the US Supreme Court and the landmark cases since the start of the country.  This book changed my perspective of the US Legal system and my understanding of the US Constitution. 06/22
 - [The U.S. Constitution: A Reader](https://shop.hillsdale.edu/products/constitution-em-a-reader-em)  This was a fascinating read, with clear unbiased commentary and references throughout.  A must have for anyone wishing to learn about the past and present of the U.S. Constitution. 05/22 
-- [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://a.co/d/he8RSGC) (I will post a review soon) 12/22
-- [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://a.co/d/0sP02nU) 12/22
-- [Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://a.co/d/8nSifDZ) 12/22
-- [Artificial Intelligence And LegalTech Essentials: Advanced Series On Artificial Intelligence (AI) And Law ](https://a.co/d/h9MRc1v) 12/22
-- [Ingenious Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://www.amazon.com/Ingenious-Essays-Law-Artificial-Intelligence/dp/1736303120/ref=sr_1_5?keywords=ai+and+law&qid=1669737831&s=books&sprefix=AI+and+la%2Cstripbooks%2C102&sr=1-5) 12/22
-- [Law and Artificial Intelligence: Regulating AI and Applying AI in Legal Practice)](https://a.co/d/i1SlsDL)  01/23
-- [Advanced Introduction to Law and Artificial Intelligence](https://a.co/d/011armj)  This book is **a good second book** on the subject of AI Law.  While completely different from [The Reasonable Robot](https://a.co/d/aSGASsr), it frequently cites case history as examples. 12/22
-- [Research Handbook on the Law of Artificial Intelligence](https://a.co/d/jbujeYu) 12/22
-- [Economics and Law of Artificial Intelligence: Finance, Economic Impacts, Risk Management and Governance](https://a.co/d/3IsKBpX)
-- [The Reasonable Robot: Artificial Intelligence and the Law](https://a.co/d/aSGASsr)  Of all the books I have read on AI Law, this is the best summary and most comprehensive view.  This is definitely **a first read** on the subject. 12/22
-- [Is Law Computable?: Critical Perspectives on Law and Artificial Intelligence ](https://a.co/d/g2tzAlE) 01/23
-- [Cybersecurity Law 3rd Edition](https://a.co/d/hQIxhcw) 01/23
-- [Advanced Introduction to Cybersecurity Law](https://a.co/d/1DMnxR0) 02/23
+- [The Centaur's Dilemma: National Security Law for the Coming AI Revolution](https://amzn.to/4081ZoN) (I will post a review soon) 12/22
+- [Law of Artificial Intelligence and Smart Machines: Understanding A.I. and the Legal Impact](https://amzn.to/42zoGEe) 12/22
+- [Compelling Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://amzn.to/3lA5YeT) 12/22
+- [Artificial Intelligence And LegalTech Essentials: Advanced Series On Artificial Intelligence (AI) And Law ](https://amzn.to/40kUPgC) 12/22
+- [Ingenious Essays On AI And Law: Advanced Series On Artificial Intelligence (AI) And Law](https://amzn.to/40q0NNn) 12/22
+- [Law and Artificial Intelligence: Regulating AI and Applying AI in Legal Practice)](https://amzn.to/3TvK74R)  01/23
+- [Advanced Introduction to Law and Artificial Intelligence](https://amzn.to/40qWWja)  This book is **a good second book** on the subject of AI Law.  While completely different from [The Reasonable Robot](https://amzn.to/40bBChN), it frequently cites case history as examples. 12/22
+- [Research Handbook on the Law of Artificial Intelligence](https://amzn.to/406SNBa) 12/22
+- [Economics and Law of Artificial Intelligence: Finance, Economic Impacts, Risk Management and Governance](https://amzn.to/407Jdhe)
+- [The Reasonable Robot: Artificial Intelligence and the Law](https://amzn.to/407plLd)  Of all the books I have read on AI Law, this is the best summary and most comprehensive view.  This is definitely **a first read** on the subject. 12/22
+- [Is Law Computable?: Critical Perspectives on Law and Artificial Intelligence ](https://amzn.to/405jPJf) 01/23
+- [Cybersecurity Law 3rd Edition](https://amzn.to/3Jz0g4L) 01/23
+- [Advanced Introduction to Cybersecurity Law](https://amzn.to/3Jz0oBh) 02/23
 
 
 ### Aeronautical & Mechanical Engineering, Stability & Control, Aircraft Design
@@ -175,39 +175,39 @@ Most of the ML literature I have read is contained in technical papers, which I 
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3746.jpg">
 </p>
 
-- [Aircraft Design: A Conceptual Approach, Fourth Edition](https://a.co/d/bxIrc8N)  This book helped me design several military aircraft. **This is absolutely the best book for aircraft design, and I know the author personally**  
-- [Aircraft Design: A Conceptual Approach, Sixth Edition](https://a.co/d/eNvO2pZ)  This updated edition includes electric aircraf design. **I know the author personally**
-- [Lessons Learned: A Guide to Improved Aircraft Design](https://a.co/d/4LJfcCH) **I know the author personally**
-- [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://a.co/d/fYG2VWv) THis book was purcahsed for a small and successful IRAD project. 06/14
-- [Dynamics of Flight - Etkin & Reid](https://a.co/d/eEtP5ue) This book helped me design several military aircraft. Excellent book for understanding stability variables and derivatives. 06/07
-- [Fundamentals of Astrodynamics](https://a.co/d/1sdzIz9) 08/16
-- [Radar Cross Section Second Edition](https://a.co/d/0GUvJPa) This book helped me design several military aircraft. 01/08
-- [Simplified Aircraft Design for Homebuilders - Raymer](https://a.co/d/7piaKyQ) **I know the author personally** 01/08  
-- [Fundamentals of Aircraft Design - Nicolai](https://a.co/d/4FGYKip) This book helped me design several military aircraft. **I know the author personally** 11/05
-- [Theoretical Aerodynamics](https://a.co/d/bSL7CWT) 08/05
-- [Theory of Wing Sections: Including a Summary of Airfoil Data](https://a.co/d/aIGVqcM) This book helped me design several military aircraft. A must have for aircraft design and wind tunnel testing 08/05
-- [Aerodynamics of Wings and Bodies](https://a.co/d/e8nDNHa) 08/05
-- [Airplane Design: Part I - Roskam](https://a.co/d/eGaNHBY) This book helped me design several military aircraft. **I know the author personally** 07/05
-- [Airplane Design: Part II - Roskam](https://a.co/d/gtZ0G1M) This book helped me design several military aircraft. 07/05
-- [Airplane Design: Part III - Roskam](https://a.co/d/j2EjwcP) This book helped me design several military aircraft. 07/05
-- [Airplane Design: Part IV - Roskam](https://a.co/d/bf7hPWY) This book helped me design several military aircraft. 07/05
-- [Airplane Design: Part V - Roskam](https://a.co/d/dMc0XQS) This book helped me design several military aircraft. 07/05
-- [Airplane Design: Part VI - Roskam](https://a.co/d/aQWL8HJ) This book helped me design several military aircraft. 07/05
-- [Airplane Design: Part VII - Roskam](https://a.co/d/efs25Pb) This book helped me design several military aircraft. 07/05
-- [Airplane Design: Part VIII - Roskam](https://a.co/d/bzrBLjF) This book helped me design several military aircraft. 07/05
-- [Airplane Flight Dynamics & Automatic Flight Controls: Part I - Roskam](https://a.co/d/3Hl6C6s) This book helped me design several military aircraft. 07/05
-- [Airplane Flight Dynamics & Automatic Flight Controls: Part II - Roskam](https://a.co/d/gZ011U0) This book helped me design several military aircraft. 07/05
-- [Fundamentals of Sailplane Design](https://a.co/d/1MIdG8Z) This book was purchased for fun and it is a great design book for sailplanes or high-altitude ISR aircraft. 04/05
-- [Dynamics and Thermodynamics of Compressible Fluid Flow: v.1 - Shapiro](https://a.co/d/5s6R1gQ) I used this text while in grad school, great book! 12/07
-- [Modeling and Simulation of Aerospace Vehicle Dynamics](https://a.co/d/ihyAerW) This book helped me design several military aircraft. 11/08
-- [Fluid-Dynamic Drag: Theoretical, experimental and statistical information - Hoerner](https://a.co/d/jdYlmEp) A must-have for aircraft design 10/08
-- [Fluid-Dynamic Lift: Theoretical, experimental and statistical information - Hoerner](https://a.co/d/5jIPEIX) A must-have for aircraft design 10/08
-- [Intake Aerodynamics](https://a.co/d/ak0jNkq) This book helped me design intakes of several military aircraft. 10/08
-- [Boundary Layer Theory - Schlichting](https://a.co/d/cRdJMr1) I used this text while in grad school, great book! 10/08
-- [Fighter Combat: Tactics and Maneuvering](https://a.co/d/2KfRzUc) Great book for miltary aircraft flight testing. 05/08
-- [Gas Dynamics, Volume 1 - Zucrow & Hoffman](https://a.co/d/6R4mtJi) I used this text while in grad school, great book! 02/09
-- [Flight Testing of Fixed-Wing Aircraft - Kimberlin](https://a.co/d/fUQTkiQ) Great book for flight test planning and analysis 01/09
-- [Aircraft Control and Simulation - Stevens & Lewis](https://a.co/d/1Ot35ly) Great book for 6DOF simulation design. 10/10
+- [Aircraft Design: A Conceptual Approach, Fourth Edition](https://amzn.to/3yVTwJp)  This book helped me design several military aircraft. **This is absolutely the best book for aircraft design, and I know the author personally**  
+- [Aircraft Design: A Conceptual Approach, Sixth Edition](https://amzn.to/3z3821T)  This updated edition includes electric aircraf design. **I know the author personally**
+- [Lessons Learned: A Guide to Improved Aircraft Design](https://amzn.to/3yUrZIv) **I know the author personally**
+- [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://amzn.to/3luYmdt) THis book was purcahsed for a small and successful IRAD project. 06/14
+- [Dynamics of Flight - Etkin & Reid](https://amzn.to/3LHmp3D) This book helped me design several military aircraft. Excellent book for understanding stability variables and derivatives. 06/07
+- [Fundamentals of Astrodynamics](https://amzn.to/3ZXsYDv) 08/16
+- [Radar Cross Section Second Edition](https://amzn.to/3Z6RroJ) This book helped me design several military aircraft. 01/08
+- [Simplified Aircraft Design for Homebuilders - Raymer](https://amzn.to/3ng7OSo) **I know the author personally** 01/08  
+- [Fundamentals of Aircraft Design - Nicolai](https://amzn.to/3JVtbBE) This book helped me design several military aircraft. **I know the author personally** 11/05
+- [Theoretical Aerodynamics](https://amzn.to/3JXlPNO) 08/05
+- [Theory of Wing Sections - Abbott & von Doenhoff](https://amzn.to/3Z4SF3U) This book helped me design several military aircraft. A must have for aircraft design and wind tunnel testing 08/05
+- [Aerodynamics of Wings and Bodies](https://amzn.to/3K7Js6J) 08/05
+- [Airplane Design: Part I - Roskam](https://amzn.to/3ZlL6pH) This book helped me design several military aircraft. **I know the author personally** 07/05
+- [Airplane Design: Part II - Roskam](https://amzn.to/3luuYUT) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part III - Roskam](https://amzn.to/3Z1rIhf) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part IV - Roskam](https://amzn.to/3Z6Rvog) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part V - Roskam](https://amzn.to/3TwvCOf) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part VI - Roskam](https://amzn.to/3LBuffc) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part VII - Roskam](https://amzn.to/3JxZAN3) This book helped me design several military aircraft. 07/05
+- [Airplane Design: Part VIII - Roskam](https://amzn.to/3JBAxsp) This book helped me design several military aircraft. 07/05
+- [Airplane Flight Dynamics & Automatic Flight Controls: Part I - Roskam](https://amzn.to/3lF0vTU) This book helped me design several military aircraft. 07/05
+- [Airplane Flight Dynamics & Automatic Flight Controls: Part II - Roskam](https://amzn.to/3TAWdJY) This book helped me design several military aircraft. 07/05
+- [Fundamentals of Sailplane Design](https://amzn.to/3yUsthN) This book was purchased for fun and it is a great design book for sailplanes or high-altitude ISR aircraft. 04/05
+- [Dynamics and Thermodynamics of Compressible Fluid Flow: v.1 - Shapiro](https://amzn.to/3n9lezJ) I used this text while in grad school, great book! 12/07
+- [Modeling and Simulation of Aerospace Vehicle Dynamics](https://amzn.to/407CdkH) This book helped me design several military aircraft. 11/08
+- [Fluid-Dynamic Drag: Theoretical, experimental and statistical information - Hoerner](https://amzn.to/42tpOZV) A must-have for aircraft design 10/08
+- [Fluid-Dynamic Lift: Theoretical, experimental and statistical information - Hoerner](https://amzn.to/407p76L) A must-have for aircraft design 10/08
+- [Intake Aerodynamics](https://amzn.to/42tq0s7) This book helped me design intakes of several military aircraft. 10/08
+- [Boundary Layer Theory - Schlichting](https://amzn.to/3FGG4Nb) I used this text while in grad school, great book! 10/08
+- [Fighter Combat: Tactics and Maneuvering](https://amzn.to/3TxI4Ns) Great book for miltary aircraft flight testing. 05/08
+- [Gas Dynamics, Volume 1 - Zucrow & Hoffman](https://amzn.to/3TAg9fR) I used this text while in grad school, great book! 02/09
+- [Flight Testing of Fixed-Wing Aircraft - Kimberlin](https://amzn.to/3ncYdMx) Great book for flight test planning and analysis 01/09
+- [Aircraft Control and Simulation - Stevens & Lewis](https://amzn.to/3JHLadA) Great book for 6DOF simulation design. 10/10
 
 
 ### Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
@@ -215,30 +215,30 @@ Most of the ML literature I have read is contained in technical papers, which I 
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3743.jpg">
 </p>
 
-- [Aided Navigation, GPS with High Rate Sensors - Farrell](https://a.co/d/7uAmnbz) **This was my PhD adviser**.  His book is the reason I petitioned him to be his PhD student.  Farrell and this book are known world-wide.  **This book is one of the few books that I have seen where every variable is clearly defined and explained**.  I learned so much from Dr. Farrell and I have carried forward his instruction into how I write [my books](https://roysdonfibonaccipress.com).  This is a great book on Kalman Filters, GPS-INS navigation, AHRS, GPS positioning, smoothing, and state estimation.
-- [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems - Groves](https://a.co/d/dR3mMAZ)  This is my go-to book when I need the kinematic equations and their derivatives in multiple reference frames, e.g., ECI to ECEF, or NED to ECEF, etc.  Of course his book has many other topics, but the reference frame descriptions are the best I have seen in any book.  This is a great book that I reference frequently.
-- [Fundamentals of Statistical Signal Processing, Vol 1, Estimation Theory - Kay](https://a.co/d/5twMxmZ) This is the best 3 volume series on signal processing and specifically **estimation theory**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
-- [Fundamentals of Statistical Signal Processing, Vol 2, Detection Theory - Kay](https://a.co/d/5bkDDJZ) This is the best 3 volume series on signal processing and specifically **detection theory, e.g. anomaly detection**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
-- [Fundamentals of Statistical Signal Processing, Vol 3, Practical Algorithm Development Theory - Kay](https://a.co/d/68dbK3y) This is the best 3 volume series on signal processing and specifically on **practical considerations, performance evaluation, metrics, trade-offs, and testing**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
-- [Fundamentals of Linear State Space Systems - Bay](https://a.co/d/7hYUvfg)  This is a great book to start learning state space methods after you have read Strang's linear algebra book.  I used this in graduate school and still refer to this book.
-- [Applied Optimal Estimation - Gelb](https://a.co/d/dkecC5h) After you master Bay's book and you are interested in estimation theory, this is a great book to learn. Herein you will learn methods that are also discussed in Kay's books, but with slightly different notation.
-- [Optimal Control Theory, An Introduction- Kirk](https://a.co/d/59CXQOg) After you master Bay's book and you are interested in control theory, this is a great book to learn.
-- [Probability, Statistics, and Random Processes For Electrical Engineering](https://a.co/d/8gwoEYR)
-- [Nonlinear Systems - Khalil](https://a.co/d/9AvAQIo) I used this during my PhD studies 01/14
-- [Discrete-Time Signal Processing - Oppenheim](https://a.co/d/cEW4W73) I used this during my PhD studies 01/14
-- [Fundamentals of Wireless Communication](https://a.co/d/hRqdvoM) I used this during my PhD studies 01/14
-- [Modern Digital and Analog Communication Systems - Lathi](https://a.co/d/d0WyQoY) I used this during my PhD studies 01/14
-- [Adaptive Filter Theory - Haykin](https://a.co/d/4N1EkU3) I used this during my PhD studies 01/14
-- [Fundamentals of Kalman Filtering - Zarchan](https://a.co/d/bQxvlK8) I used this during my PhD studies 01/14
-- [Advanced Kalman Filtering, Least-Squares and Modeling: A Practical Handbook - Gibbs](https://a.co/d/hKqRXYs) I used this during my PhD studies 01/14
-- [Essentials of Robust Control - Zhou](https://a.co/d/6v6jrfZ) I used this during my PhD studies 01/14
+- [Aided Navigation, GPS with High Rate Sensors - Farrell](https://amzn.to/3n7xSiK) **This was my PhD adviser**.  His book is the reason I petitioned him to be his PhD student.  Farrell and this book are known world-wide.  **This book is one of the few books that I have seen where every variable is clearly defined and explained**.  I learned so much from Dr. Farrell and I have carried forward his instruction into how I write [my books](https://roysdonfibonaccipress.com).  This is a great book on Kalman Filters, GPS-INS navigation, AHRS, GPS positioning, smoothing, and state estimation.
+- [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems - Groves](https://amzn.to/3JBpfEF)  This is my go-to book when I need the kinematic equations and their derivatives in multiple reference frames, e.g., ECI to ECEF, or NED to ECEF, etc.  Of course his book has many other topics, but the reference frame descriptions are the best I have seen in any book.  This is a great book that I reference frequently.
+- [Fundamentals of Statistical Signal Processing, Vol 1, Estimation Theory - Kay](https://amzn.to/3LM83PH) This is the best 3 volume series on signal processing and specifically **estimation theory**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
+- [Fundamentals of Statistical Signal Processing, Vol 2, Detection Theory - Kay](https://amzn.to/3JVsl7M) This is the best 3 volume series on signal processing and specifically **detection theory, e.g. anomaly detection**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
+- [Fundamentals of Statistical Signal Processing, Vol 3, Practical Algorithm Development Theory - Kay](https://amzn.to/3JsaqUU) This is the best 3 volume series on signal processing and specifically on **practical considerations, performance evaluation, metrics, trade-offs, and testing**.  There are many books, but Kay maintains great notation and derivations throughout.  Some may find these books a bit terse, but once you learn the notation, the books are a great resource.  I have used these books since graduate school.
+- [Fundamentals of Linear State Space Systems - Bay](https://amzn.to/3JBW9VA)  This is a great book to start learning state space methods after you have read Strang's linear algebra book.  I used this in graduate school and still refer to this book.
+- [Applied Optimal Estimation - Gelb](https://amzn.to/3Z0yoMM) After you master Bay's book and you are interested in estimation theory, this is a great book to learn. Herein you will learn methods that are also discussed in Kay's books, but with slightly different notation.
+- [Optimal Control Theory, An Introduction- Kirk](https://amzn.to/3nf7xiD) After you master Bay's book and you are interested in control theory, this is a great book to learn.
+- [Probability, Statistics, and Random Processes For Electrical Engineering](https://amzn.to/3LDi0i3)
+- [Nonlinear Systems - Khalil](https://amzn.to/3lrYZVp) I used this during my PhD studies 01/14
+- [Discrete-Time Signal Processing - Oppenheim](https://amzn.to/3yUJkke) I used this during my PhD studies 01/14
+- [Fundamentals of Wireless Communication](https://amzn.to/3LGK3gv) I used this during my PhD studies 01/14
+- [Modern Digital and Analog Communication Systems - Lathi](https://amzn.to/3LKAMUP) I used this during my PhD studies 01/14
+- [Adaptive Filter Theory - Haykin](https://amzn.to/3JXPsyD) I used this during my PhD studies 01/14
+- [Fundamentals of Kalman Filtering - Zarchan](https://amzn.to/3LHiPXs) I used this during my PhD studies 01/14
+- [Advanced Kalman Filtering, Least-Squares and Modeling: A Practical Handbook - Gibbs](https://amzn.to/3Z4qWjO) I used this during my PhD studies 01/14
+- [Essentials of Robust Control - Zhou](https://amzn.to/3Z0USNL) I used this during my PhD studies 01/14
 - Strapdown Analytics Part 1 Part 2 - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
 - Introduction to Strapdown Inertial Naviagtion Systems - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
 - Strapdown Inertial Navigation Lecture Notes - Savage, (purchased directly from Savage) I used this during my PhD studies 01/14
-- [Probabilistic Robotics - Thrun](https://a.co/d/3F3fpcV) **I know the author personally** I used this during my PhD studies 01/14
-- [Nonlinear Control Systems: Analysis and Design - Marquez](https://a.co/d/goJLsc8) I used this during my PhD studies 01/14
-- [Global Positioning Systems, Inertial Navigation, and Integration - Grewal](https://a.co/d/7Bv7LzL) **I know the author personally** 07/10
-- [Kalman Filtering : Theory and Practice Using MATLAB](https://a.co/d/iaVpqAZ) **I know the author personally** 07/10
+- [Probabilistic Robotics - Thrun](https://amzn.to/3yTRCce) **I know the author personally** I used this during my PhD studies 01/14
+- [Nonlinear Control Systems: Analysis and Design - Marquez](https://amzn.to/3yUsP87) I used this during my PhD studies 01/14
+- [Global Positioning Systems, Inertial Navigation, and Integration - Grewal](https://amzn.to/3yXw7HC) **I know the author personally** 07/10
+- [Kalman Filtering : Theory and Practice Using MATLAB](https://amzn.to/40rxrOM) **I know the author personally** 07/10
 
 
 ### Watchmaking
@@ -246,13 +246,13 @@ Most of the ML literature I have read is contained in technical papers, which I 
 	<img width="500" img src="https://github.com/pfroysdon/reading_rack/blob/main/figures/IMG_3747.jpg">
 </p>
 
-- [Watchmaking - George Daniels](https://a.co/d/eeNBCul) The best book to get you started in watchmaking. 09/19
-- [The Watchmakers' Staking Tool - K&D Co.](https://a.co/d/ca8E6z8) Ver useful to undersatnd the staking tool and its applications. 12/19
-- [Bench Practices for Watch Repairers - Fried](https://a.co/d/9OOEiCB) 12/19
-- [2,100 Victorian Monograms (Lettering, Calligraphy, Typography)](https://a.co/d/0pUIwum) A great reference for artistic design that is nearly a lost art. 12/19
-- [5000 Decorative Monograms for Artists and Craftspeople](https://a.co/d/6f3Fkag) A great reference for artistic design that is nearly a lost art. 12/19
-- [Art Alphabets, Monograms, and Lettering (Lettering, Calligraphy, Typography)](https://a.co/d/9dvto4U) A great reference for artistic design that is nearly a lost art. 12/19
-- [The Modern Watchmakers Lathe And How To Use It - Perkins](https://a.co/d/3exmfTf) Great book for understanding different lathe tools and how to use them correctly. 12/19
+- [Watchmaking - George Daniels](https://amzn.to/3na44C9) The best book to get you started in watchmaking. 09/19
+- [The Watchmakers' Staking Tool - K&D Co.](https://amzn.to/3FGFIq7) Ver useful to undersatnd the staking tool and its applications. 12/19
+- [Bench Practices for Watch Repairers - Fried](https://amzn.to/42w2IBF) 12/19
+- [2,100 Victorian Monograms (Lettering, Calligraphy, Typography)](https://amzn.to/3JWUpYn) A great reference for artistic design that is nearly a lost art. 12/19
+- [5000 Decorative Monograms for Artists and Craftspeople](https://amzn.to/3nbo5s0) A great reference for artistic design that is nearly a lost art. 12/19
+- [Art Alphabets, Monograms, and Lettering (Lettering, Calligraphy, Typography)](https://amzn.to/3LBv33I) A great reference for artistic design that is nearly a lost art. 12/19
+- [The Modern Watchmakers Lathe And How To Use It - Perkins](https://amzn.to/3n9E6if) Great book for understanding different lathe tools and how to use them correctly. 12/19
 
 
 
@@ -280,50 +280,50 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 **Note:** I have ~200 books that I have read in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
 
 ### Technical
-- [The Making of the Atomic Bomb - Rhodes](https://a.co/d/9VpamVx)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 10/22
-- [Blind Man's Bluff: The Untold Story of American Submarine Espionage - Sontag](https://a.co/d/eZJvVd1) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
+- [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 10/22
+- [Blind Man's Bluff: The Untold Story of American Submarine Espionage - Sontag](https://amzn.to/42xrams) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
 
 
 ### Creative, Inspirational, or Informational
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://a.co/d/esVXMWP) A great story about creativity and how to overcome your personal obstacles. 05/21
-- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://a.co/d/11pNDMy) This is a fascinating story about a very interesting person!  My cousin and several colleagues work for Elon, and based on their personal experience with him, he sounds exactly like a guy I worked for in Northern California for a decade.  It seems to me the *true* risk takers and entrepreneurs are very similar, and the roller coaster of working for them is both exhilarating and exhausting.  I have read this book 2 times. 10/21
-- [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://a.co/d/27yNiLR)  A very interesting perspective on the world banking system, with several good references. 01/22
-- [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond - Kranz](https://a.co/d/bVZsWaz) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
-- [Kelly: More Than My Share of It All - Johnson](https://a.co/d/1Oz1erl) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
-- [Skunk Works: A Personal Memoir of My Years of Lockheed - Rich](https://a.co/d/26Rm9Ao) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
-- [The Notebooks of Leonardo Da Vinci, Vol 1](https://a.co/d/4vgSnTX) 06/16
-- [The Notebooks of Leonardo Da Vinci, Vol 2](https://a.co/d/iaVDtVt) 06/16
-- [Camping & Wilderness Survival, 2nd: The Ultimate Outdoors Book](https://a.co/d/cQs9jrs) 01/14
-- [Secret Empire: Eisenhower, the CIA, and the Hidden Story of America's Space Espionage](https://a.co/d/dCzTq7R) 08/16
-- [More Shop Drawings for Craftsman Furniture: 30 Stickley Designs for Every Room in the Home](https://a.co/d/hB3sll8) 05/11
-- [The Furniture of Gustav Stickley: History, Techniques, and Projects](https://a.co/d/e8ednL9) 05/11
-- [Making Authentic Craftsman Furniture: Instructions and Plans for 62 Projects](https://a.co/d/bHAapqT) 05/11
-- [Shop Drawings for Craftsman Furniture: 27 Stickley Designs for Every Room in the Home](https://a.co/d/bXg4rWS) 05/11
-- [Shop Drawings for Craftsman Interiors: Cabinets, Moldings & Built-Ins for Every Room in the Home](https://a.co/d/c7zEeyW) 05/11
-- [Shop Drawings for Craftsman Inlays & Hardware: Original Designs by Gustav Stickley](https://a.co/d/dOZLGau) 05/11
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) A great story about creativity and how to overcome your personal obstacles. 05/21
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/3FHN2l5) This is a fascinating story about a very interesting person!  My cousin and several colleagues work for Elon, and based on their personal experience with him, he sounds exactly like a guy I worked for in Northern California for a decade.  It seems to me the *true* risk takers and entrepreneurs are very similar, and the roller coaster of working for them is both exhilarating and exhausting.  I have read this book 2 times. 10/21
+- [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://amzn.to/40q1zdf)  A very interesting perspective on the world banking system, with several good references. 01/22
+- [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond - Kranz](https://amzn.to/407pzSv) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
+- [Kelly: More Than My Share of It All - Johnson](https://amzn.to/3yXwoKE) A classic story about the man that set the industry standards in research and development, decades before Elon Musk.  For 25 years, and in each company I have worked, I have followed his "14 principles" (in Ch. 16).  I have read this book many times. 03/21
+- [Skunk Works: A Personal Memoir of My Years of Lockheed - Rich](https://amzn.to/3TBfLOv) A great story of the successes and challenges at SkunkWorks, particularly in a classified environment.  I have read this book 2 times. 04/21
+- [The Notebooks of Leonardo Da Vinci, Vol 1](https://amzn.to/42nmSxM) 06/16
+- [The Notebooks of Leonardo Da Vinci, Vol 2](https://amzn.to/3LDSadZ) 06/16
+- [Camping & Wilderness Survival, 2nd: The Ultimate Outdoors Book](https://amzn.to/3na4qst) 01/14
+- [Secret Empire: Eisenhower, the CIA, and the Hidden Story of America's Space Espionage](https://amzn.to/3LHI63B) 08/16
+- [More Shop Drawings for Craftsman Furniture: 30 Stickley Designs for Every Room in the Home](https://amzn.to/3FGv9mO) 05/11
+- [The Furniture of Gustav Stickley: History, Techniques, and Projects](https://amzn.to/3TyA3I9) 05/11
+- [Making Authentic Craftsman Furniture: Instructions and Plans for 62 Projects](https://amzn.to/3TxIROq) 05/11
+- [Shop Drawings for Craftsman Furniture: 27 Stickley Designs for Every Room in the Home](https://amzn.to/42zpSrc) 05/11
+- [Shop Drawings for Craftsman Interiors: Cabinets, Moldings & Built-Ins for Every Room in the Home](https://amzn.to/3ncYEGA) 05/11
+- [Shop Drawings for Craftsman Inlays & Hardware: Original Designs by Gustav Stickley](https://amzn.to/3JAlHTh) 05/11
 
 
 ### Leadership
-- [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://a.co/d/45dPSQe) Something I use to help write better performance appraisals. 08/22
-- [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Willink](https://a.co/d/cvlVKyi) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
-- [Turn the Ship Around!: A True Story of Turning Followers into Leaders - Marquet](https://a.co/d/ejNCLXs) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
+- [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://amzn.to/40noA0k) Something I use to help write better performance appraisals. 08/22
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Willink](https://amzn.to/3JDNtON) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders - Marquet](https://amzn.to/3n5y0PL) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
 
 
 ### Health
-- [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://a.co/d/1WRnk3S)  This book changed my life and my perspective on healthy eating. Chronic illness is gone, I have lost weight and inches around my waste, and best of all, I have better mental clarity to read and retain great books like those on this list!  I reference this book in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely) 06/22
-- [Food: What the Heck Should I Cook? - Hyman](https://a.co/d/6rbiiFp)  I purchased this book because of the 10-day detox, and I really like this book. 06/22
-- [Food: What the Heck Should I Eat? - Hyman](https://a.co/d/9OvhpFB) I purchased this book because of the 10-day detox, and I really like this book. 06/22
+- [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://amzn.to/407Rh1w)  This book changed my life and my perspective on healthy eating. Chronic illness is gone, I have lost weight and inches around my waste, and best of all, I have better mental clarity to read and retain great books like those on this list!  I reference this book in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely) 06/22
+- [Food: What the Heck Should I Cook? - Hyman](https://amzn.to/3LJlu2Q)  I purchased this book because of the 10-day detox, and I really like this book. 06/22
+- [Food: What the Heck Should I Eat? - Hyman](https://amzn.to/3yWnUDr) I purchased this book because of the 10-day detox, and I really like this book. 06/22
 
 
 ### Poetry and Fiction
-- [Twelve Plays by Shakespeare](https://a.co/d/0MzQ3Jn) 11/14
-- [The Chronicles of Narnia Set](https://a.co/d/7doaGUr) 12/14
-- [Six by Lewis box set: The Abolition of Man, The Great Divorce, Mere Christianity, Miracles, The Problem of Pain, The Screwtape Letters](https://a.co/d/fn4gHi7) 02/10
-- [The Wit and Wisdom of Mark Twain](https://a.co/d/3H4JErO) 12/14
-- [Best Works of Mark Twain: Four Volumes](https://a.co/d/7Gahr5q) 12/14
-- [Henry David Thoreau : Collected Essays and Poems](https://a.co/d/8SpI4Ac) 03/15
-- [The Complete C.S. Lewis Signature Classics](https://a.co/d/0FRhld7) 08/15
-- [T.S. Eliot: The Complete Poems and Plays](https://a.co/d/0aTxR9q) 06/15
-- [Robert Frost: Collected Poems, Prose, and Plays](https://a.co/d/eKGeyfb) 01/09
-- [Whitman: Poetry and Prose](https://a.co/d/jiCzK9E) 01/09
+- [Twelve Plays by Shakespeare](https://amzn.to/3LGnmZW) 11/14
+- [The Chronicles of Narnia Set](https://amzn.to/3yTlLbM) 12/14
+- [Six by Lewis box set: The Abolition of Man, The Great Divorce, Mere Christianity, Miracles, The Problem of Pain, The Screwtape Letters](https://amzn.to/3JVonMA) 02/10
+- [The Wit and Wisdom of Mark Twain](https://amzn.to/3JBBxg9) 12/14
+- [Best Works of Mark Twain: Four Volumes](https://amzn.to/3JZyFLN) 12/14
+- [Henry David Thoreau : Collected Essays and Poems](https://amzn.to/3JV4FR4) 03/15
+- [The Complete C.S. Lewis Signature Classics](https://amzn.to/3JCzAQz) 08/15
+- [T.S. Eliot: The Complete Poems and Plays](https://amzn.to/3LCaXX3) 06/15
+- [Robert Frost: Collected Poems, Prose, and Plays](https://amzn.to/3Z7ZsK6) 01/09
+- [Whitman: Poetry and Prose](https://amzn.to/3yTIjJt) 01/09
 
