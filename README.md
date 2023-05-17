@@ -283,7 +283,8 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 - [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 10/22
 - [Blind Man's Bluff: The Untold Story of American Submarine Espionage - Sontag](https://amzn.to/42xrams) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
 - [Legacy of Ashes: The History of the CIA](https://amzn.to/3AE310J) An interesting historical account of the CIA comprised of declassified documents and FOIA papers. 03/23
-- [Dark Sun: The Making of the Hydrogen Bomb](https://amzn.to/428GXHb) Another fantastic book from Richard Rhodes. 04/23
+- [Dark Sun: The Making of the Hydrogen Bomb](https://amzn.to/428GXHb) Another fantastic book from Richard Rhodes, and a follow-on to his [prior book](https://amzn.to/3TCKtqu) with intriguing stories regarding the concerns of the physicists that worked on the hydrogen (super) bomb. 04/23
+- [The Psychology of Totalitarianism](https://amzn.to/3BABFsY) This is a great analysis of the human condition and how our psychology influences not just our decisions but to a great degree our overall health.  This is a must read, even if you have no interst in govermments, politics, or mental health. 05/23
 
 
 ### Creative, Inspirational, or Informational
