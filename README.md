@@ -1,6 +1,6 @@
-<p align="center">
-	<img width="500" img src="https://github.com/pfroysdon/publications/blob/main/figures/machine-learning-books.jpg">
-</p>
+# Reading Rack
+
+-----------------------------------------------------------------------------------
 
 **NOTE:**  
 
